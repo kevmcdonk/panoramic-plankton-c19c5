@@ -3,13 +3,6 @@ title: Home
 slug: /
 sections:
   - type: CarouselSection
-    title:
-      text: Carousel Section Title
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
     subtitle: Carousel of testimonials
     items:
       - title: >-
