@@ -1,0 +1,165 @@
+{
+    "model": "FeaturedPeopleSection",
+    "presets": [
+        {
+            "label": "Featured people",
+            "thumbnail": "images/featured-people-section-team-b4e6.png",
+            "data": {
+                "title": {
+                    "text": "Meet our team",
+                    "color": "text-dark",
+                    "styles": {
+                        "self": {
+                            "textAlign": "center"
+                        }
+                    },
+                    "$$type": "TitleBlock"
+                },
+                "subtitle": null,
+                "people": [
+                    {
+                        "name": "Drake Garza",
+                        "role": "Project Manager",
+                        "bio": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+                        "image": {
+                            "url": {
+                                "$$ref": "1ghNRW4q43yk7CwthiTKrc",
+                                "$$type": "__image_model"
+                            },
+                            "altText": "Drake",
+                            "elementId": "",
+                            "styles": {
+                                "self": {
+                                    "margin": ["mb-6"],
+                                    "borderRadius": "full"
+                                }
+                            },
+                            "$$type": "ImageBlock"
+                        },
+                        "colors": "bg-light-fg-dark",
+                        "elementId": null,
+                        "styles": {
+                            "self": {
+                                "padding": ["pt-6", "pb-6", "pl-6", "pr-6"],
+                                "textAlign": "center",
+                                "borderColor": "border-neutral",
+                                "borderStyle": "solid",
+                                "borderWidth": 1,
+                                "borderRadius": "xx-large",
+                                "justifyContent": "center"
+                            }
+                        },
+                        "$$type": "Person"
+                    },
+                    {
+                        "name": "Tiya Greenwood",
+                        "role": "COO",
+                        "bio": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+                        "image": {
+                            "url": {
+                                "$$ref": "43NV7IWoqnAK5inGGeSHgW",
+                                "$$type": "__image_model"
+                            },
+                            "altText": "Tiya",
+                            "elementId": "",
+                            "styles": {
+                                "self": {
+                                    "margin": ["mb-6"],
+                                    "borderRadius": "full"
+                                }
+                            },
+                            "$$type": "ImageBlock"
+                        },
+                        "colors": "bg-light-fg-dark",
+                        "elementId": null,
+                        "styles": {
+                            "self": {
+                                "padding": ["pt-6", "pb-6", "pl-6", "pr-6"],
+                                "textAlign": "center",
+                                "borderColor": "border-neutral",
+                                "borderStyle": "solid",
+                                "borderWidth": 1,
+                                "borderRadius": "xx-large",
+                                "justifyContent": "center"
+                            }
+                        },
+                        "$$type": "Person"
+                    },
+                    {
+                        "name": "Faizah Chan",
+                        "role": "Co-founder & CTO",
+                        "bio": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+                        "image": {
+                            "url": {
+                                "$$ref": "2Y1tR5r5RmYawQK2aPxPhw",
+                                "$$type": "__image_model"
+                            },
+                            "altText": "Faizah",
+                            "elementId": "",
+                            "styles": {
+                                "self": {
+                                    "margin": ["mb-6"],
+                                    "borderRadius": "full",
+                                    "borderWidth": 0,
+                                    "borderColor": "border-light"
+                                }
+                            },
+                            "$$type": "ImageBlock"
+                        },
+                        "colors": "bg-light-fg-dark",
+                        "elementId": null,
+                        "styles": {
+                            "self": {
+                                "padding": ["pt-6", "pb-6", "pl-6", "pr-6"],
+                                "textAlign": "center",
+                                "borderColor": "border-neutral",
+                                "borderStyle": "solid",
+                                "borderWidth": 1,
+                                "borderRadius": "xx-large",
+                                "justifyContent": "center"
+                            }
+                        },
+                        "$$type": "Person"
+                    }
+                ],
+                "actions": [
+                    {
+                        "label": "Check all team",
+                        "altText": "",
+                        "url": "/",
+                        "showIcon": true,
+                        "icon": "arrowRight",
+                        "iconPosition": "right",
+                        "style": "primary",
+                        "elementId": "",
+                        "$$type": "Link"
+                    }
+                ],
+                "badge": null,
+                "elementId": "",
+                "variant": "three-col-grid",
+                "colors": "bg-neutral-fg-dark",
+                "backgroundImage": {
+                    "url": {
+                        "$$ref": "5DKRl6yHeOJQO4MzreyoAg",
+                        "$$type": "__image_model"
+                    },
+                    "altText": "Shapes in the corners",
+                    "backgroundSize": "cover",
+                    "backgroundPosition": "center",
+                    "backgroundRepeat": "no-repeat",
+                    "opacity": 100,
+                    "$$type": "BackgroundImage"
+                },
+                "styles": {
+                    "self": {
+                        "justifyContent": "center"
+                    },
+                    "subtitle": {
+                        "textAlign": "center"
+                    }
+                }
+            }
+        }
+    ]
+}

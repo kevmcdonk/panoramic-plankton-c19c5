@@ -1,0 +1,100 @@
+{
+    "model": "ImageGallerySection",
+    "presets": [
+        {
+            "label": "Logos",
+            "thumbnail": "images/image-gallery-section-logos-d84a.png",
+            "data": {
+                "title": null,
+                "subtitle": "Our customers",
+                "images": [
+                    {
+                        "url": {
+                            "$$ref": "3dKDusRQONK4j3rWNrJpYk",
+                            "$$type": "__image_model"
+                        },
+                        "altText": "Empathy logo",
+                        "elementId": "",
+                        "styles": null,
+                        "$$type": "ImageBlock"
+                    },
+                    {
+                        "url": {
+                            "$$ref": "3dwkhIjs2pt5jnCRMwjX6F",
+                            "$$type": "__image_model"
+                        },
+                        "altText": "Wellster logo",
+                        "elementId": "",
+                        "styles": null,
+                        "$$type": "ImageBlock"
+                    },
+                    {
+                        "url": {
+                            "$$ref": "6RxWDVdrXNioGgYfjotag7",
+                            "$$type": "__image_model"
+                        },
+                        "altText": "Vise logo",
+                        "elementId": "",
+                        "styles": null,
+                        "$$type": "ImageBlock"
+                    },
+                    {
+                        "url": {
+                            "$$ref": "1IGeeLXNCO6FqWYr0rI3Zg",
+                            "$$type": "__image_model"
+                        },
+                        "altText": "Telus logo",
+                        "elementId": "",
+                        "styles": null,
+                        "$$type": "ImageBlock"
+                    },
+                    {
+                        "url": {
+                            "$$ref": "2JLQtf2qQH7DaSEjfHJvGC",
+                            "$$type": "__image_model"
+                        },
+                        "altText": "Contentful logo",
+                        "elementId": "",
+                        "styles": null,
+                        "$$type": "ImageBlock"
+                    },
+                    {
+                        "url": {
+                            "$$ref": "7gcUUKw2lcKXYieNMZbdLc",
+                            "$$type": "__image_model"
+                        },
+                        "altText": "Sanity logo",
+                        "elementId": "",
+                        "styles": null,
+                        "$$type": "ImageBlock"
+                    },
+                    {
+                        "url": {
+                            "$$ref": "59ysOmoomzYc8rNK4bwC4J",
+                            "$$type": "__image_model"
+                        },
+                        "altText": "Rangle logo",
+                        "elementId": "",
+                        "styles": null,
+                        "$$type": "ImageBlock"
+                    }
+                ],
+                "badge": null,
+                "elementId": "",
+                "motion": "static",
+                "colors": "bg-light-fg-dark",
+                "backgroundImage": null,
+                "styles": {
+                    "self": {
+                        "margin": ["mt-0", "ml-0", "mb-0", "mr-0"],
+                        "padding": ["pt-16", "pl-16", "pb-16", "pr-16"],
+                        "justifyContent": "center"
+                    },
+                    "subtitle": {
+                        "textAlign": "center"
+                    }
+                }
+            }
+        }
+    ]
+}

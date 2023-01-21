@@ -1,0 +1,24 @@
+{
+    "model": "ImageBlock",
+    "srcType": "contentful",
+    "srcProjectId": "z5ue3gewriv2",
+    "presets": [
+        {
+            "label": "Round image",
+            "thumbnail": "images/image-block-round-image-4bff.png",
+            "data": {
+                "url": {
+                    "$$ref": "1hfWCP6YDGb1Gmm3EYhxJi",
+                    "$$type": "__image_model"
+                },
+                "altText": "Rhonda Piper",
+                "elementId": "",
+                "styles": {
+                    "self": {
+                        "borderRadius": "full"
+                    }
+                }
+            }
+        }
+    ]
+}
