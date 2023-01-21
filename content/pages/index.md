@@ -15,7 +15,7 @@ sections:
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
           explicabo.
         image:
-          url: /images/person-four.jpg
+          url: /images/MCD79 - the Modern Workplace Blog.png
           altText: Maria
           elementId: ''
           styles:
