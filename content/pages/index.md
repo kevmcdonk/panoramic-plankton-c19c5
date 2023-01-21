@@ -3,7 +3,7 @@ title: Home
 slug: /
 sections:
   - type: CarouselSection
-    subtitle: Carousel of testimonials
+    subtitle: Mcd79
     items:
       - title: >-
           “A designer knows he has achieved perfection not when there is nothing
