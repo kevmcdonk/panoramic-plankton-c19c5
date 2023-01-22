@@ -90,37 +90,6 @@ sections:
           - pb-16
           - pr-16
         justifyContent: center
-  - subtitle: Award winning enterprises trust us
-    images:
-      - url: /images/empathy_jcmigz.svg
-        altText: Empathy logo
-        type: ImageBlock
-      - url: /images/wellster.svg
-        altText: Wellster logo
-        type: ImageBlock
-      - url: /images/vise.svg
-        altText: Vise logo
-        type: ImageBlock
-      - url: /images/telus.svg
-        altText: Telus logo
-        type: ImageBlock
-      - url: /images/contenful.svg
-        altText: Contentful logo
-        type: ImageBlock
-      - url: /images/sanity.svg
-        altText: Sanity logo
-        type: ImageBlock
-      - url: /images/rangle.svg
-        altText: Rangle logo
-        type: ImageBlock
-    motion: move-to-left
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: ImageGallerySection
   - type: CarouselSection
     title: null
     subtitle: null
