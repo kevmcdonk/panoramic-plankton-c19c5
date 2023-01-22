@@ -164,6 +164,14 @@ sections:
       subtitle:
         textAlign: center
     type: GenericSection
+    media:
+      type: ImageBlock
+      altText: Lightning bolt symbol on red background
+      elementId: ''
+      url: /images/post-two.svg
+      styles:
+        self:
+          borderRadius: x-large
   - subtitle: Award winning enterprises trust us
     images:
       - url: /images/empathy_jcmigz.svg
