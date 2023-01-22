@@ -168,7 +168,7 @@ sections:
       type: ImageBlock
       altText: Lightning bolt symbol on red background
       elementId: ''
-      url: /images/post-two.svg
+      url: /images/MCD79 - the Modern Workplace Blog.png
       styles:
         self:
           borderRadius: x-large
