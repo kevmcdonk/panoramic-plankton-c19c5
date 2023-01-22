@@ -121,58 +121,6 @@ sections:
       subtitle:
         textAlign: center
     type: ImageGallerySection
-  - type: GenericSection
-    title:
-      text: Generic Section With A Video
-      color: text-dark
-      styles:
-        self:
-          textAlign: left
-      type: TitleBlock
-    subtitle: Section with a video subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
-    actions: []
-    media:
-      title: Title of the video
-      url: >-
-        https://res.cloudinary.com/stackbit-com/video/upload/c_scale,f_auto,w_1200/v1662491281/Home_page_header_V2_launch_V.2_2_fdyqq7.mp4
-      autoplay: false
-      loop: false
-      muted: false
-      controls: true
-      aspectRatio: '16:9'
-      elementId: ''
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: VideoBlock
-    badge: null
-    elementId: ''
-    colors: bg-light-fg-dark
-    backgroundImage: null
-    styles:
-      self:
-        flexDirection: row
-        justifyContent: center
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-      subtitle:
-        textAlign: left
   - type: CarouselSection
     title: null
     subtitle: null
