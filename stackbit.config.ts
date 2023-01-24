@@ -1,9 +1,3 @@
-/*
-TODO 
-1. sidebarButtons - but what to put in srcType/srcProjectId
-2. models is deprecated? before there is Git CMS...
-*/
-
 import { defineStackbitConfig } from '@stackbit/types';
 import { allModels } from 'sources/local/models';
 
