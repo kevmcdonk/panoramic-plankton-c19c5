@@ -1,5 +1,6 @@
 ---
 title: 'The why of Viva Goals'
+slug: why-of-viva-goals
 date: '2022-09-13'
 thumb_img_alt: 'Five transparent blocks on a wall against a blue sky'
 excerpt: >-
