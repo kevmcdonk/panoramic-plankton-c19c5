@@ -1,8 +1,8 @@
 {
-    "favicon": "/images/favicon.svg",
+    "favicon": "/images/KMcDonnell-Square-BW conv.jpeg",
     "header": "content/data/header.json",
     "footer": "content/data/footer.json",
     "titleSuffix": "Theme Demo",
-    "defaultSocialImage": "/images/soc.png",
+    "defaultSocialImage": "/images/MCD79 - the Modern Workplace Blog.png",
     "type": "Config"
 }
