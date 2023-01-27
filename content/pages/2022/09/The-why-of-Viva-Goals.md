@@ -3,15 +3,26 @@ title: 'The why of Viva Goals'
 slug: /2022/09/why-of-viva-goals
 date: '2022-09-13'
 excerpt: >-
-  With the general availability of Viva Goals at the start of August 2022, many people have been wondering what the benefits are. The honest answer is that the majority are to do with the OKR (Objective Key Result) framework that Viva Goals helps organisations to implement it but the tools are just part of the equation. This blog post looks into some of the challenges that OKRs along with Viva Goals look to address.
+  With the general availability of Viva Goals at the start of August 2022, many
+  people have been wondering what the benefits are. The honest answer is that
+  the majority are to do with the OKR (Objective Key Result) framework that Viva
+  Goals helps organisations to implement it but the tools are just part of the
+  equation. This blog post looks into some of the challenges that OKRs along
+  with Viva Goals look to address.
 hide_header: false
 seo:
-  title: 'The why of Viva Goals'
-  description: 'With the general availability of Viva Goals at the start of August 2022, many people have been wondering what the benefits are. The honest answer is that the majority are to do with the OKR (Objective Key Result) framework that Viva Goals helps organisations to implement it but the tools are just part of the equation. This blog post looks into some of the challenges that OKRs along with Viva Goals look to address.'
+  title: The why of Viva Goals
+  description: >-
+    With the general availability of Viva Goals at the start of August 2022,
+    many people have been wondering what the benefits are. The honest answer is
+    that the majority are to do with the OKR (Objective Key Result) framework
+    that Viva Goals helps organisations to implement it but the tools are just
+    part of the equation. This blog post looks into some of the challenges that
+    OKRs along with Viva Goals look to address.
   robots: []
   extra: []
 layout: PostLayout
-subtitle: 'Why you would consider implementing Viva Goals'
+subtitle: Why you would consider implementing Viva Goals
 featuredImage:
   type: ImageBlock
   url: /images/2022/09/AlignedTransparent.jpg
@@ -20,14 +31,31 @@ bottomSections:
   - elementId: ''
     variant: variant-c
     colors: colors-a
-    title: Read next
+    title:
+      '0': R
+      '1': e
+      '2': a
+      '3': d
+      '4': ' '
+      '5': 'n'
+      '6': e
+      '7': x
+      '8': t
     recentCount: 3
     styles:
       self:
         height: auto
         width: wide
-        margin: ['mt-0', 'mb-0', 'ml-0', 'mr-0']
-        padding: ['pt-12', 'pb-56', 'pr-4', 'pl-4']
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-12
+          - pb-56
+          - pr-4
+          - pl-4
         justifyContent: center
       title:
         textAlign: center
