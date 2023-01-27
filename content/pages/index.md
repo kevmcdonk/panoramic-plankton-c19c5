@@ -24,13 +24,6 @@ sections:
         iconPosition: right
         style: primary
         type: Button
-      - label: Learn more
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Link
     elementId: homepage-hero
     colors: bg-light-fg-dark
     backgroundImage:
