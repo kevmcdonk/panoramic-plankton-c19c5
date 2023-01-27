@@ -5,7 +5,9 @@
         "altText": "Logo dark",
         "styles": {
             "self": {
-                "margin": ["mr-3"],
+                "margin": [
+                    "mr-3"
+                ],
                 "opacity": 100
             }
         },
@@ -41,6 +43,6 @@
     ],
     "secondaryLinks": [],
     "variant": "logo-left-primary-nav-left",
-    "colors": "bg-light-fg-dark",
+    "colors": "bg-dark-fg-light",
     "type": "Header"
 }
