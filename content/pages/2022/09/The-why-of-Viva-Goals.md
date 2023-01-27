@@ -1,6 +1,6 @@
 ---
 title: 'The why of Viva Goals'
-slug: why-of-viva-goals
+slug: /2022/09/why-of-viva-goals
 date: '2022-09-13'
 excerpt: >-
   With the general availability of Viva Goals at the start of August 2022, many people have been wondering what the benefits are. The honest answer is that the majority are to do with the OKR (Objective Key Result) framework that Viva Goals helps organisations to implement it but the tools are just part of the equation. This blog post looks into some of the challenges that OKRs along with Viva Goals look to address.

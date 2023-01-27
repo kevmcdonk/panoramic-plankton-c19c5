@@ -17,18 +17,18 @@ function getPageUrl(page) {
     }
 
     if (['PostLayout'].includes(page?.__metadata.modelName)) {
-        return `/blog${page.slug.startsWith('/') ? page.slug : `/${page.slug}`}`;
+        //return `/blog${page.slug.startsWith('/') ? page.slug : `/${page.slug}`}`;
+        return `${page.slug.startsWith('/') ? page.slug : `/${page.slug}`}`;
     }
 
     return page.slug.startsWith('/') ? page.slug : `/${page.slug}`;
 }
 
 function setEnvironmentVariables() {
-  return {
-    ...(process?.env?.URL && { URL: process.env.URL }),
-  }
+    return {
+        ...(process?.env?.URL && { URL: process.env.URL })
+    };
 }
-
 
 module.exports = {
     cssClassesFromUrlPath,
