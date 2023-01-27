@@ -3,7 +3,7 @@ title: Home
 slug: /
 sections:
   - title:
-      text: Here goes your business main value proposition
+      text: 'The modern workplace podcast '
       color: text-dark
       styles:
         self:
