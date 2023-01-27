@@ -14,15 +14,15 @@
             "type": "Social"
         },
         {
-            "altText": "GitHub link",
-            "url": "https://github.com/kevmcdonk",
-            "icon": "github",
-            "type": "Social"
-        },
-        {
             "altText": "LinkedIn link",
             "url": "https://www.linkedin.com/in/kevmcdonnell",
             "icon": "linkedin",
+            "type": "Social"
+        },
+        {
+            "altText": "GitHub link",
+            "url": "https://github.com/kevmcdonk",
+            "icon": "github",
             "type": "Social"
         }
     ],
