@@ -5,6 +5,7 @@ import { resolveStaticProps } from '../utils/static-props-resolvers';
 import { resolveStaticPaths } from '../utils/static-paths-resolvers';
 import { hotContentReload } from 'sourcebit-target-next/hot-content-reload';
 import { usingSourcebit } from '../utils/using-sourcebit';
+import generateRssFeed from '../utils/createFeed';
 
 function Page(props) {
     const { page, site } = props;
@@ -26,6 +27,8 @@ export async function getStaticPaths() {
 }
 
 export async function getStaticProps({ params }) {
+    generateRssFeed();
+
     const data = await getContent();
     const urlPath = '/' + (params.slug || []).join('/');
     const props = await resolveStaticProps(urlPath, data);

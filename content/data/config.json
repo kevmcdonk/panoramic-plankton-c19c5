@@ -1,0 +1,132 @@
+{
+    "type": "Config",
+    "favicon": "/images/KMcDonnell-Square-BW conv.jpeg",
+    "header": {
+        "headerVariant": "variant-c",
+        "primaryColors": "colors-a",
+        "secondaryColors": "colors-f",
+        "title": "Mcd79",
+        "isTitleVisible": true,
+        "primaryLinks": [
+            {
+                "type": "Link",
+                "label": "Home",
+                "url": "/",
+                "altText": ""
+            },
+            {
+                "type": "Link",
+                "label": "Community",
+                "url": "/community",
+                "altText": ""
+            },
+            {
+                "type": "Link",
+                "label": "About me",
+                "url": "/about",
+                "altText": ""
+            }
+        ],
+        "secondaryLinks": [],
+        "styles": {
+            "self": {
+                "width": "narrow",
+                "padding": ["pt-5", "pb-5", "pr-4", "pl-4"]
+            }
+        },
+        "logo": {
+            "altText": "altText of the image",
+            "caption": "Caption of the image",
+            "elementId": "",
+            "styles": {
+                "self": {
+                    "opacity": 100
+                }
+            },
+            "type": "ImageBlock",
+            "url": "/images/KMcDonnell-Square-BW conv.jpeg"
+        }
+    },
+    "footer": {
+        "colors": "colors-h",
+        "logo": {
+            "altText": "Kevin McDonnell in black and white",
+            "caption": "Mcd79 - the modern workplace blog",
+            "elementId": "",
+            "styles": {
+                "self": {
+                    "opacity": 100
+                }
+            },
+            "type": "ImageBlock",
+            "url": "/images/KMcDonnell-Square-BW conv.jpeg"
+        },
+        "title": "Starter",
+        "copyrightText": "Powered by [Stackbit](https://www.stackbit.com/)",
+        "primaryLinks": [
+            {
+                "type": "Link",
+                "label": "Home",
+                "url": "/",
+                "altText": ""
+            },
+            {
+                "type": "Link",
+                "label": "Careers",
+                "url": "/careers",
+                "altText": ""
+            },
+            {
+                "type": "Link",
+                "label": "Blog",
+                "url": "/blog",
+                "altText": ""
+            }
+        ],
+        "socialLinks": [
+            {
+                "type": "Social",
+                "altText": "Twitter",
+                "label": "Twitter",
+                "icon": "twitter",
+                "url": "https://www.Twitter.com/kevmcdonk"
+            },
+            {
+                "type": "Social",
+                "label": "Linked In",
+                "altText": "",
+                "url": "https://www.linkedin.com/in/kevmcdonnell",
+                "icon": "linkedin",
+                "style": "link",
+                "elementId": ""
+            },
+            {
+                "type": "Social",
+                "label": "GitHub",
+                "altText": "",
+                "url": "https://www.GitHub.com/kevmcdonk",
+                "icon": "github",
+                "style": "link",
+                "elementId": ""
+            }
+        ],
+        "legalLinks": [
+            {
+                "type": "Link",
+                "label": "Privacy Policy",
+                "url": "/"
+            },
+            {
+                "type": "Link",
+                "label": "Terms & Conditions",
+                "url": "/"
+            }
+        ],
+        "styles": {
+            "self": {
+                "width": "narrow",
+                "padding": ["pt-16", "pb-16", "pr-4", "pl-4"]
+            }
+        }
+    }
+}

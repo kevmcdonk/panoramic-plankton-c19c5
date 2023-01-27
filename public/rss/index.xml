@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Mcd79</title>
+        <link>https://www.mcd79.com</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 27 Jan 2023 22:52:10 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>Next.js using Feed for Node.js</generator>
+        <language>en</language>
+        <ttl>60</ttl>
+        <image>
+            <title>Mcd79</title>
+            <url>https://www.mcd79.com/images/KMcDonnell-Square-BW%20conv.jpeg</url>
+            <link>https://www.mcd79.com</link>
+        </image>
+        <copyright>All rights reserved 2023, Kevin McDonnell</copyright>
+        <item>
+            <title><![CDATA[Transforming organisations with Viva]]></title>
+            <link>undefined/undefined</link>
+            <guid>undefined/undefined</guid>
+            <pubDate>Sat, 30 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<p>“In 2022, a crack community unit was sent to Microsoft for some contracts that they couldn’t commit. These people promptly got together, not escaping from Teams, to explore the world of Microsoft Viva. Today, still wanted by the community they serve, they survive as collaborators of fortune. If you have an employee experience problem, if no-one else can help and, wherever you can find them…maybe you can hear from the Viva Explorers.”</p>
+
+<p>Thanks to the great mind of Lesley Crook (and with apologies to the A-Team), a group of community minded people has come together to help you understand the world of Microsoft Viva. You can read the tale on the <a href="https://techcommunity.microsoft.com/t5/microsoft-teams-community-blog/join-vivaexplorers-in-an-empathic-hybrid-workplace/ba-p/3280353">Tech Community blog</a> but this post is about the part that I play - the Viva Transformer.</p>
+
+<p>Transformation is such a key part of any journey to new ideas and employee experience with <a href="https://www.microsoft.com/en-gb/microsoft-viva">Microsoft Viva</a> is no different. Turning on the technology is only part of the story and in this post, I will talk about some of the high level areas to consider when helping to transform the organisation with adoption and change management. In my current role as head of practice for modern workplace at CPS, we always include change and adoption plans so that we know that things will be of benefit and understood by staff. So what do you need for rolling out Viva at your organisation?</p>
+
+<h2>Start with Why</h2>
+
+<p>So you’ve decided that you are rolling out Viva. Great, good plan. Except you might have missed something. Have you worked out why? Not only that but have you backed up that reason by speaking with staff? Can you align the different areas within Viva specific challenges that have been raised by employees? This is where you need to start.</p>
+
+<p>If you already have an annual staff survey or are taking pulse surveys with a tool like <a href="https://www.glintinc.com/blog/an-employees-guide-to-glint-surveys/">Glint</a>. You may already have some insight into the challenges being faced. You may have a very vocal employee forum or be taking feedback from regular town halls. Make sure that this feedback is broad and caters for the introverts and quieter personalities in your organisation as well as the louder voices that often emerge. Take some of the key points and make sure that you drill a little deeper to make sure that you are getting to the right root of the problem.</p>
+
+<p>One way to consider these is to construct these into areas around the employee lifecycle. The lifecycle starts as soon as someone starts looking at a company, moves through hiring and the all important onboarding. It considers how you engage people with the organisation and each other, putting in place all that people need to perform and allow them to grow within the organisation. Finally, there will always be a point where people depart and considers how you ensure a good farewell that leaves a lasting impression to pass on to others or to encourage a return one day.</p>
+
+<p><img alt="Employee Lifecycle" src="/images/2022/04/EmployeeLifecycle.jpeg"/></p>
+
+<h2>What do you implement?</h2>
+
+<p>When it comes to implementations for the Employee Experience, much depends on what you are implementing. The Viva Explorers will be sharing plenty on how to implement Viva with the technical details so in this post I’m going to consider more what you need to transform. If you are have followed the whys above, you have a great backlog of items but what do you do first? What is the priority?</p>
+
+<p>To establish these, the first thing to set up is an Employee Experience Working Group. These will have a group of key stakeholders that can drive change from the top along with key implementers which can make that change happen. There are many ways to implement these that I will go into in future blog posts but some of the key elements are:</p>
+
+<pre><code>• Transparent views for the whole organisation around what is being done
+• Mechanisms for feedback to be taken and addressed
+• Agreement on how priorities are determined
+• Clear guidance on current priorities</code></pre>
+
+<p>There will often be a lot of different areas that need addressing at once but either not enough budget or not enough time to address all at once. Clearly tracking and agreeing the priorities helps employees understand what is coming and can also help to manage the amount of change in one go. It provides a consistent message to employees and helps deliver to completion.</p>
+
+<h2>How do you know you have succeeded?</h2>
+
+<p>Implementing initiatives to improve the employee experience is great but only if they succeed in improving the experience. Having clear criteria for success and KPIs to measure how close to that enables clear and transparent goals that all can see. These will keep all involved but also help to keep the organisation focused on delivering those goals.plus, the great news is that Viva has ways to help you with this.</p>
+
+<p>Through <a href="https://docs.microsoft.com/en-us/viva/insights/introduction">Viva Insights</a>, you can look at evidence based measures to support your initiatives. Looking to reduce burnout for staff? Look at hours spent outside of core hours or percentage of back to back meetings. Looking to increase cross departmental engagement to support innovation? Measure the connections taking place in Teams and Outlook through meetings, calls, chats and emails. Don’t like the pre-canned reports? No problems, build your own. Want to integrate absence data? No problems, build out reports with Power BI.</p>
+
+<p>Viva Insights gives your leaders and managers the support needed to understand their employees and what is influencing them. It also supports those insights with recommendations on what can be done to improve that as well with links to key reports and more articles in the inspiration library.</p>
+
+<p>It’s not just insights though, there is also <a href="https://ally.io">Ally.IO</a> (which will hopefully have a Viva name soon!) that helps to give data driven objectives for OKRs (Objective Key Results). These help people understand their purpose for the organisation as it aligns objectives from top to bottom but it also supports them with real data. It allows people to hook their Key Results as metrics with databases and tables providing the actual data to support the OKRs and the continuous feedback reviews.</p>
+
+<h2>Summary</h2>
+
+<p>There is so much more to talk about with transforming the employee experience with Viva and I’m looking forward to being able to share that with you as part of the Viva Explorers. Between us, we cover so many different perspectives, from the technical to the cultural, the why you should to the what you should to the how you could. We will be sharing but also listening to your journeys and helping to feedback to Microsoft along the way.
+Why do I do this? I want this focus on employees at the centre to benefit as organisations as possible and therefore help as many people as possible. Making change happen the right way is what makes transformations happen and stick which is where the true magic happen. Look out for more coming from the Viva Explorers soon...</p>
+
+<p>Photo by <a href="https://unsplash.com/es/@martyman_55">Martin Zdrazil</a> on Unsplash</p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Reflections on Scottish Summit 2022]]></title>
+            <link>undefined/undefined</link>
+            <guid>undefined/undefined</guid>
+            <pubDate>Sun, 12 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<p>Beautiful city, great speakers, all the Microsoft content, plenty of drinks - that is the way to spend a couple of days. At the start of June, I was one of the over one thousand people who attended the Scottish Summit in Glasgow, a Microsoft Community event that has been running for several years now but was the first year back in person since the start of the pandemic. Here are a few of my thoughts as I head back home.</p>
+
+<h2>The importance of accessibility for all</h2>
+
+<p>It is always important as you come away from an event like the <a href="https://www.scottishsummit.com">Scottish Summit</a> to reflect and work out what it will mean to you afterwards, what you have taken away from it. The biggest thing for me was easy - the importance of accessibility and making life easier for everyone, not just must people. The opening keynote was one of the most special I have ever seen as <a href="https://twitter.com/cmcginley">Connell McGinley</a> spoke of his story as a deaf person in IT. The things that we take for granted like making a call or knowing when you are being asked a question suddenly become very different. One point that hit home is the ease at which we can accidentally exclude people - Connell was chosen as the person who sat in the data centre early in his career as the noise of the fan was thought to not affect him. It is these sort of exclusions and assumptions that we should all challenge in our selves.</p>
+
+<p>The fact that Connell can now be so involved in IT is a huge win for the power of technology tools now as Microsoft Teams and captioning helps to make it more seamless for all to be involved. Small changes to our habits, enabled by the tech that we use can make a much bigger difference for others and is something we should all try. The applause for the session was lead by <a href="https://twitter.com/donaSarkar">Dona Sarkar</a> who asked us all to use the British Sign Language applause with our hands raised in the air and twisted, almost jazz hands style. The site of the crowd with their hands up was just beautiful and the number of people that continued to do that during the two days of the summit was inspiring.</p>
+
+<p>The accessibility theme continued through the rest of the conference with many sessions having sign language interpreters to make them available to all. There was plenty of tech sessions too, covering Power Platform, Microsoft 365, Dynamics and Azure. However, it was the non-tech sessions that I really took a lot away from, especially the panel sessions organised by Microsoft up on the 9th floor. The mental health session was incredibly open and the panellists shared some truly horrific stories of how they have been treated and the journeys they have been through. It was so helpful to not only remind me of things to do but to also learn more about the right and wrong things to do. I took away the most important things were to speak to people with mental health struggles, not to make assumptions about how they want to be treated and to try not to make statements that could be a trigger. <a href="https://twitter.com/AzureRory">Rory Neary</a> also gave a fantastic session on his own mental health challenges and his own reminders not to blame the trigger itself. Looking forward to continue the discussion on mental health as Rory joins <a href="https://www.twitter.com">CPS</a> and sharing with others the tools and techniques that Dona Sarkar talked about in <a href="https://youtu.be/uewTShNre7k">her closing keynote</a> on how to discuss mental health at work.</p>
+
+<h2>Talks and talking</h2>
+
+<p>For the tech sessions, I will be honest that I missed many of the ones that I had intended to see. Why? Because I was chatting with people too much! Chatting about Viva, chatting about licensing (yes really) and an awful lot of chatting about life. People often talk about finding your tribe and that is what these events feel like. The chance to meet that virtual community that you have found in real life and find out that they are like that in real life too. It is hard to name all the people I enjoyed chatting with but I would like to mention <a href="https://twitter.com/DamoBird365">Damien Bird</a>, <a href="https://twitter.com/ZaidZaim2k">Zaid Zaim</a> and <a href="https://twitter.com/mirrortears">Kathrin Borchert</a> because I had either not met them or only briefly met them before and they were just the loveliest people. Real events open up the circle of people you meet and I truly hope that stays true with these three as well as the other awesome people I get to be with.</p>
+
+<p><img alt="Presenting with the Viva Explorers on stage at the Scottish Summit" src="/images/2022/06/ScottishSummitVivaExplorers.jpg"/></p>
+
+<p>As well as nattering and building connections, I did also have the chance to be involved in three sessions. These were all sessions that I had run with others virtually in some way but this was the first time we&#39;d tried in person. What was great was how interactive they were and how we managed to get the audience interaction running nicely with them. I am a big believer in the virtual/hybrid world and the enablement that it brings and so it&#39;s less that we should all move to in-person and more that we should look more at those things and how we can do it more in the virtual space. Being there keeps you present so looking at your meetings and sessions, think about how you can disconnect from your other distractions. Think about how you can feed those cues to the people speaking without distracting too . Think about engaging with them at the right times as well. As a coordinator, think about giving people time while also making sure they connect to it. Realise that while there may be focus on one person, there are others to look at too. As a speaker, think about how you can move around and change the focus to keep the audience interested - swap from faces to presentations to other screens. It was great to be able to stand in front of others and I look forward to doing more but I also want to take that learning to use virtually too.</p>
+
+<p>Learning from how others speak as well was important. The different styles and seeing how the audience responded to those different styles. People rarely leave on their camera when watching virtual events but you can see the reactions and what engages people far more in person. My simplified views often take over in my head and think that all talks need to be exciting and energetic throughout but watching how others pace their sessions, bring in points to think about alongside sharing specific things, change up and down the sort of things that are being shown. All of these really help with how I can become a better speaker and a better consultant as well.</p>
+
+<p>As the recordings of some of these sessions become available, I will update this post with links.</p>
+
+<h2>The informal fun (as opposed to the formal fun)</h2>
+
+<p>I can&#39;t not mention the socialising. I feel like we may have helped fund Brewdog in Glasgow for the rest of the summer with the amount we were there but it was amazing to have big groups that you could just float about and chat to familiar faces. People are so friendly and welcoming at these events and open to new faces. I wrote previously about how hard it can be when you see familiar faces but the groups at these events are incredible so get chatting with them, make those connections and you never know where it will take you. The stories I heard over the last few days of new roles happening because of people knowing each other and building those relationships are a great way to justify the fun that you get to have to the poor family who are left behind as we travel to these events. I would like to say a big thank you to my wife and mother-in-law because I could not do things like this without their backing.</p>
+
+<p><img alt="One of the many visits to Brewdog - large group of people outside the Brewdog bar in Glasgow" src="/images/2022/06/ScottishSummitSocialising.jpg"/></p>
+
+<p>Back on the socialising, it seems a suitable point to end on a celebration. The highlight of many of these events has become the infamous pub quiz run by the legendary <a href="https://twitter.com/andrewbibby">Andrew Bibby</a>, <a href="https://twitter.com/tassyja">Tricia Sinclair</a> and <a href="https://twitter.com/KeeganMumInTech">Keegan Stanton</a> and under the supreme leadership of <a href="https://twitter.com/SharePoint_Zoe">Zoe Wilson</a>, our team (Haggis and Chips) were champions! Not a bad way to round off a tiring but rewarding, inspiring and fun few days in Scotland.</p>
+
+<p><img alt="Group shot of the Haggis and Chips team with the trophy for winning the charity pub quiz at Scottish Summit" src="/images/2022/06/ScottishSummitQuizWinners.jpg"/></p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Viva Sales and what it means for the future of Viva]]></title>
+            <link>undefined/undefined</link>
+            <guid>undefined/undefined</guid>
+            <pubDate>Sat, 18 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<p>On 16 June, Microsoft dropped a surprise on us - a brand new Viva pillar. Viva Sales has allows employees to enter CRM data, whatever your CRM and powered by AI. With nudges and hints to help you do the right thing, it will truly power a more productive and effective sales force (whether with Salesforce, Dynamics or something else). What is more interesting though is what this means to the future of Viva.</p>
+
+<h2>What is Viva?</h2>
+
+<p>Hopefully everyone reading this knows about <a href="https://www.microsoft.com/en-gb/microsoft-viva">Microsoft Viva</a> but, just in case, it is the
+Employee experience platform from Microsoft that puts the employee at the centre. It is formed of multiple pillars but all of this are centred around Teams as the platform so you can use all of them in your flow of work through Teams that must of us are already familiar with.</p>
+
+<p>The pillars are currently:</p>
+
+<ul><li><a href="https://www.microsoft.com/en-gb/microsoft-viva/connections">Viva Connections</a> - connecting employees to the organisation, to each other and to the tools they need to get their job done</li><li><a href="https://www.microsoft.com/en-gb/microsoft-viva/insights">Viva Insights</a> - providing personal productivity and leadership insights</li><li><a href="https://www.microsoft.com/en-gb/microsoft-viva/topics">Viva Topics</a> - providing the right knowledge to the right people at the right time</li><li><a href="https://www.microsoft.com/en-gb/microsoft-viva/learning">Viva Learning</a> - helping employees learn in their flow of work</li><li><a href="https://www.microsoft.com/en-gb/microsoft-viva/goals">Viva Goals</a> - aligning culture and strategy throughout the organisation with OKRs</li></ul>
+
+<p>And now Viva Sales fits into these pillars too. There has been a seventh pillar announced as well with <a href="https://www.microsoft.com/en-gb/microsoft-viva/viva-and-glint">Glint</a> due to be integrated into Viva to capture pulse surveys from employees, integrating the insights with what employees are saying.</p>
+
+<p>The common thread to these tools, as well as being employee focused, is that they bring AI power to them to make it easier to do the right thing. For example, Viva Topics will automatically extract knowledge topics from across your Microsoft 365 estate and Viva Learning will suggest courses from across your LMSs based on what courses you have taken and what people around you are looking at.</p>
+
+<p>The other common thread is that they connect into other platforms, this isn’t just a Microsoft thing.</p>
+
+<ul><li>Viva Connections has the dashboard which means you can easily bring live data to your digital workplace hub from any platform with an API</li><li>Viva Insights links in with Headspace and you can align your data through Power BI with any other data sources</li><li>Viva Topics will soon be able to index data from any other system with an API to inject your knowledge from services like Salesforce and ServiceNow</li><li>Viva Learning pulls from all your LMS platforms to give you one place for your learning content and with playlists across those</li><li>Viva Goals can power your key results from tools such as Jira, Asana, Google Sheets and more</li><li>Viva Sales will be able to update your CRM whether it is Dynamics, Salesforce or something else</li></ul>
+
+<p>This common thread neatly positions Viva at the centre of your Digital Workplace.</p>
+
+<h2>Tell me more about this Viva Sales</h2>
+
+<p>The focus of Viva Sales is around making it easier for those updating their CRM systems. Whether you are in sales or pre-sales, it can be a pain making sure that you capture updates into your CRM as you have those conversations with your clients and clients-to-be. Viva Sales aims to improve that by embedding into all the Office tools. This isn’t just a plug-in that brings things to one place though. It will use AI to make suggestions and nudges so that if you promised a client something, it will log that against that client and remind you. It will make sure that those leads are followed up. It will change the world!</p>
+
+<p>Ok, we must wait to see more details as the only information released so far is the video below but it gives you a great idea. Having this working regardless of your CRM will be very compelling as well.</p>
+
+<p>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/fNqVnBVCw6I&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen&gt;&lt;/iframe&gt;</p>
+
+<p>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/PCUVc08kmbA&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen&gt;&lt;/iframe&gt;</p>
+
+<h2>How does Viva Sales change things?</h2>
+
+<p>Here is the interesting and fundamental question that arises with the announcement of Viva Sales. This feels like a pivot in where Viva is going. Some on social media have spoken about Viva being an HR tool (I even heard the phrase and onboarding told) but it has always been more than that. The introduction of a sales oriented product suggests a move towards more role oriented products that suit particular employees more than others.</p>
+
+<p>Providing specific solutions to different areas of an organisation but with a common look and with the same AI powered goodness that also allows for more integration from other platforms that organisations are using feels like the new direction that Viva is expanding into. I have often spoken about Viva as a brand rather than a product and this expansion fulfils that further. The success of the recognition for the brand is taking off and Microsoft has recognised that and is building on that success.</p>
+
+<h2>Viva as the end user Microsoft Graph</h2>
+
+<p>This positioning of Viva as a brand feels like the positioning of it as the broader way of the different teams within Microsoft to provide a consistent message. Those close to Microsoft often talk of them “shipping the org chart” and having products competing because teams are competing for attention at Microsoft. A great example is where Microsoft 365 and Dynamics have in the past released similar sounding services and consuls rants and the MVP community are left fielding the “what should I use when” conversation. What this move to Viva Sales shows is not only are those teams working closer together than ever before, with the relationship here between Dynamics and Teams being particularly encouraging, but that there is that aim for that consistent approach externally. This will make life a lot easier for the average user.</p>
+
+<p>This approach follows what the Microsoft Graph has done already. It has become that consistent API across many diverse and fragmented APIs for each product. For the most part, when you learn how it works with one platform, it is consistent with all the others under it - <a href="https://twitter.com/darrel_miller">Darrel Miller</a> talks about this in a recent <a href="https://www.podbean.com/ew/pb-j2wx4-123d309">Microsoft 365 Developer podcast episode</a>.</p>
+
+<p>By becoming the common user interface for these different services and building this into Microsoft Teams, the most commonly used service, Viva becomes the common end user tool across all the services to get things done. Users will know that they connect other platforms into it without learning new ways so much and will get the AI power to make it easy to do the right thing.</p>
+
+<h2>What will we see next?</h2>
+
+<p>We already know that the Glint integration will happen into Viva but what else? <a href="https://twitter.com/Lesley_wolan">Lesley Crook</a> has a <a href="https://vivavisionary.uk/2022/06/16/hot-off-the-viva-press/">great blog post</a> and suggests that ERP could be next. I hope that our Viva Explorer sessions on the battle between <a href="https://youtu.be/YbRNduoEaA0">Dynamics HR and Viva</a> will lead to more integration for HR self service into Viva, especially around training. Service Desk could benefit from that AI power to suggest what your issue is whatever your background. The education market could also be powered by that magic, connecting in the different learning and course management systems consistently. There is a lot of potential to come.</p>
+
+<p>Find out more about Viva Sales at:</p>
+
+<ul><li><a href="https://blogs.microsoft.com/blog/2022/06/15/introducing-viva-sales-a-modern-way-of-selling-that-brings-together-any-crm-microsoft-365-and-teams/">Microsoft announcement blog post</a></li><li><a href="https://www.microsoft.com/en-us/microsoft-viva/sales">Viva Sales landing page</a></li></ul>
+
+<p>If you want to stay up to date with what is happening, make sure that you follow the adventures of the <a href="https://www.vivaexplorers.com">Viva Explorers</a> as we continue to share the what, the why and the how of Microsoft Viva through conference sessions, videos and blogs.</p>
+
+<p>Photo by <a href="https://unsplash.com/@purzlbaum">Claudio Schwarz</a> on <a href="https://unsplash.com">Unsplash</a></p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[The why of Viva Goals]]></title>
+            <link>undefined/undefined</link>
+            <guid>undefined/undefined</guid>
+            <pubDate>Tue, 13 Sep 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<p>With the general availability of Viva Goals at the start of August 2022, many people have been wondering what the benefits are. The honest answer is that the majority are to do with the OKR (Objective Key Result) framework that Viva Goals helps organisations to implement it but the tools are just part of the equation. This blog post looks into some of the challenges that OKRs along with Viva Goals look to address. Future posts will look into:</p>
+
+<ul><li>The what of Viva Goals - covering what OKRs are and how Viva Goals supports these across your organisation</li><li>The how of Viva Goals - how you can set up Viva Goals and how it can transform your organisation</li></ul>
+
+<h2>The super powers of OKRs</h2>
+
+<p>Let&#39;s start with some questions, some of which will be relevant to individuals, some to departments and some to the whole organisation.</p>
+
+<ul><li>Do you start work on a Monday morning and wonder why you are doing what you do?</li><li>Are you trying to help change the direction of your organisation?</li><li>Does your organisation have a clearly set strategy that the organisation understands?</li><li>Do you know how aligned people are to that strategy?</li><li>Are team or department siloes causing repeated work and miscommunication?</li><li>Do you find yourself doing the same thing day in, day out?</li><li>Are you being challenged in your role?</li></ul>
+
+<p>The super powers of OKRs can help you understand how all these can be addressed.</p>
+
+<ul><li>Focus</li><li>Alignment</li><li>Tracking</li><li>Transparency</li><li>Stretch</li></ul>
+
+<p>These take into account the areas that OKRs used across an organisation can help drive value but you may target different areas at different rates as well, especially for larger organisations. The more areas that you have onboard, the more alignment and focus you will have.</p>
+
+<h2>Focus and alignment</h2>
+
+<p>Do you remember last Monday morning? Perhaps you had a long weekend with the kids, fixing up the house the way you want it or were out making shapes at a festival. Monday morning may have felt painful and so turning on your PC/Mac may have kicked off that familiar feeling. What do I have to do today? Maybe you had a list or just went to your calendar to check what was going on. But did you know why? Were you just going through the motions with no real feeling as to how these tasks play into the wider picture of your department or whole organisation.</p>
+
+<p>OKRs provide a set of hierarchical objectives from the top to all employees. It allows you to align what you are doing with what you are meant to be doing and what the organisation is trying to achieve. It helps you look at new ideas you may have and to compare them to the key areas of focus to see if they link in with other&#39;s ideas.</p>
+
+<p>To drive a specific focus, organisation&#39;s should look to focus on just 3-5 goals per quarter so that employees are not pulled in many different directions at the same time. This helps to make sure that things get done rather than providing different pulls from different competing goals across different areas.</p>
+
+<p>I have seen this in action myself. At a previous organisation, a new head of technology joined. In his first two months, he outlined his seven areas of focus along with a set of metrics that would be used to measure each one. Sadly, my memory of most of them has long faded but I remember that one was around the virtualisation of the server estate and another about getting a more service oriented approach to IT Teams (that were far more used to just getting an email and hoping they got round to it eventually in many cases). Each area was set a target to achieve and this was tracked on a regular basis.</p>
+
+<p>Many conversations were had about initiatives that were wanted to start but if they didn&#39;t align to one of the pillars then there was no traction. This brought the focus across all but also meant that people aligned what was needed to these pillars. For example, if we felt that the system we were developing could be more efficient, we could introduce the aim to reduce CPU cycles which would improve the virtualisation estate. It helped us align our own initiatives to those of the organisation and provide the focus for the value that should be achieved.</p>
+
+<h2>Tracking</h2>
+
+<p>While many organisation&#39;s may have their set of values and it may be well understood, these will often not stay as a centre of focus without understanding how things are going. The power of tracking means that not only is the focus and alignment to an organisation&#39;s strategy is understood but exactly what should be achieved at any point of time to achieve the strategy.</p>
+
+<p>OKRs provide this through the key result portion of the OKR, providing explicit values that can be tracked over time to determine if an objective has been met or not. This also allows tracking to see if the objective is on track to be met or not as well.</p>
+
+<p>The tracking at a deeper level in the organisation also allows managers and employees to have a more regular conversation around what they are achieving. This reduces the panic of ticking off all objectives at the end of the year and helps to steer a more realistic approach to objectives throughout the year. This keeps employees engaged with their objectives and prevents them becoming a side show to their main role while they become disengaged with ongoing improvement.</p>
+
+<h2>Transparency</h2>
+
+<p>Have you ever wondered what on earth another department actually does? Whether you are in operations and just think marketing fluff about sending silly social media posts or you are in marketing and wonder why sales never make anything of the leads you generate, siloes can cause big problems to a focused organisation.</p>
+
+<p>OKRs are designed to be as transparent as possible so that you understand everyone else&#39;s objectives as well as your own. This means you can find out what the focus of another team is and understand why they may not be reacting so quickly to your requests. It means that you can see if other teams are also looking at the same objectives as you to help build shared objectives.</p>
+
+<p>One of the most powerful things I heard at the last MVP Summit was two teams talking about having a shared OKR. It was nothing to do with Viva or Viva Goals but it demonstrated immediately to me that the common siloes that often appear at large organisation&#39;s like Microsoft were being broken down by these two teams. They were pulling in the same direction and people working with them would see that togetherness over time.</p>
+
+<h2>Stretch</h2>
+
+<p>There is a future post in the making that outlines the difference between KPIs and OKRs but one key aim of OKRs is to stretch everyone - individual employees, teams, departments and the organisation as a whole. If people are achieving their OKRs completely on a regular basis then they are not stretching themselves enough. The intention should be to push themselves and challenge themselves to be able to do more.</p>
+
+<p>Naturally, this should be within reason and having no-one ever able to achieve anything. The stretch should be achievable but not unrealistic or people will drift away. It should make things interesting and drive more achievement.</p>
+
+<h2>Learning more about the why</h2>
+
+<p>If these examples have whet your appetite to hear more, do check out the book Measure What Matters by John Doerr. John was fundamental to getting OKRs to drive change at Google from the very early days. There are some great examples such as the change of measuring success for YouTube from number of videos to number of minutes watched, changing behaviour across the different teams and with the users themselves.</p>
+
+<p>OKRs, when implemented well, can provide such a powerful way of keeping people engaged with their achievements and their job as a whole. They can help individuals understand their Monday mornings and help organisation&#39;s drive change where needed.</p>
+
+<p>Photo by &lt;a href=&quot;https://unsplash.com/@rgaleriacom?utm<em>source=unsplash&amp;utm</em>medium=referral&amp;utm<em>content=creditCopyText&quot;&gt;Ricardo Gomez Angel&lt;/a&gt; on &lt;a href=&quot;https://unsplash.com/s/photos/transparent?utm</em>source=unsplash&amp;utm<em>medium=referral&amp;utm</em>content=creditCopyText&quot;&gt;Unsplash&lt;/a&gt;</p>]]></content:encoded>
+        </item>
+    </channel>
+</rss>
