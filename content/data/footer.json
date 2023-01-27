@@ -24,12 +24,6 @@
             "url": "https://www.linkedin.com/in/kevmcdonnell",
             "icon": "linkedin",
             "type": "Social"
-        },
-        {
-            "altText": "Email link",
-            "url": "/",
-            "icon": "mail",
-            "type": "Social"
         }
     ],
     "legalLinks": [
