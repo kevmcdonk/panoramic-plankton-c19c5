@@ -16,7 +16,7 @@
     "primaryLinks": [
         {
             "label": "About Me",
-            "url": "/pricing",
+            "url": "/aboutme",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
