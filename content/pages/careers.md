@@ -1,5 +1,5 @@
 ---
-title: Careers
+title: Community
 slug: careers
 sections:
   - title:
