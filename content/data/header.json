@@ -15,14 +15,6 @@
     },
     "primaryLinks": [
         {
-            "label": "About Me",
-            "url": "/aboutme",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
             "label": "Blog",
             "altText": "Blog",
             "url": "/blog",
@@ -35,6 +27,14 @@
             "label": "Careers",
             "altText": "Careers page",
             "url": "/careers",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link"
+        },
+        {
+            "label": "About Me",
+            "url": "/aboutme",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
