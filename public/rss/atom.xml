@@ -1,21 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id/>
-    <title>Mcd79</title>
-    <updated>2023-01-27T22:52:10.007Z</updated>
+    <id>https://www.mcd79.com</id>
+    <title>Your Brand</title>
+    <updated>2023-01-27T23:15:12.829Z</updated>
     <generator>Next.js using Feed for Node.js</generator>
     <author>
-        <name/>
+        <name>Kevin McDonnell</name>
+        <uri>@kevmcdonk</uri>
     </author>
     <link rel="alternate" href="https://www.mcd79.com"/>
-    <link rel="self" href="undefined/rss/atom.xml"/>
+    <link rel="self" href="https://www.mcd79.com/rss/atom.xml"/>
     <logo>https://www.mcd79.com/images/KMcDonnell-Square-BW%20conv.jpeg</logo>
-    <icon>undefined/favicon.ico</icon>
+    <icon>https://www.mcd79.com/favicon.ico</icon>
     <rights>All rights reserved 2023, Kevin McDonnell</rights>
     <entry>
         <title type="html"><![CDATA[Transforming organisations with Viva]]></title>
-        <id>undefined/undefined</id>
-        <link href="undefined/undefined"/>
+        <id>https://www.mcd79.com/undefined</id>
+        <link href="https://www.mcd79.com/undefined"/>
         <updated>2022-04-30T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p>“In 2022, a crack community unit was sent to Microsoft for some contracts that they couldn’t commit. These people promptly got together, not escaping from Teams, to explore the world of Microsoft Viva. Today, still wanted by the community they serve, they survive as collaborators of fortune. If you have an employee experience problem, if no-one else can help and, wherever you can find them…maybe you can hear from the Viva Explorers.”</p>
 
@@ -65,8 +66,8 @@ Why do I do this? I want this focus on employees at the centre to benefit as org
     </entry>
     <entry>
         <title type="html"><![CDATA[Reflections on Scottish Summit 2022]]></title>
-        <id>undefined/undefined</id>
-        <link href="undefined/undefined"/>
+        <id>https://www.mcd79.com/undefined</id>
+        <link href="https://www.mcd79.com/undefined"/>
         <updated>2022-06-12T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p>Beautiful city, great speakers, all the Microsoft content, plenty of drinks - that is the way to spend a couple of days. At the start of June, I was one of the over one thousand people who attended the Scottish Summit in Glasgow, a Microsoft Community event that has been running for several years now but was the first year back in person since the start of the pandemic. Here are a few of my thoughts as I head back home.</p>
 
@@ -102,8 +103,8 @@ Why do I do this? I want this focus on employees at the centre to benefit as org
     </entry>
     <entry>
         <title type="html"><![CDATA[Viva Sales and what it means for the future of Viva]]></title>
-        <id>undefined/undefined</id>
-        <link href="undefined/undefined"/>
+        <id>https://www.mcd79.com/undefined</id>
+        <link href="https://www.mcd79.com/undefined"/>
         <updated>2022-06-18T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p>On 16 June, Microsoft dropped a surprise on us - a brand new Viva pillar. Viva Sales has allows employees to enter CRM data, whatever your CRM and powered by AI. With nudges and hints to help you do the right thing, it will truly power a more productive and effective sales force (whether with Salesforce, Dynamics or something else). What is more interesting though is what this means to the future of Viva.</p>
 
@@ -164,8 +165,8 @@ Employee experience platform from Microsoft that puts the employee at the centre
     </entry>
     <entry>
         <title type="html"><![CDATA[The why of Viva Goals]]></title>
-        <id>undefined/undefined</id>
-        <link href="undefined/undefined"/>
+        <id>https://www.mcd79.com/undefined</id>
+        <link href="https://www.mcd79.com/undefined"/>
         <updated>2022-09-13T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<p>With the general availability of Viva Goals at the start of August 2022, many people have been wondering what the benefits are. The honest answer is that the majority are to do with the OKR (Objective Key Result) framework that Viva Goals helps organisations to implement it but the tools are just part of the equation. This blog post looks into some of the challenges that OKRs along with Viva Goals look to address. Future posts will look into:</p>
 

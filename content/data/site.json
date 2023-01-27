@@ -4,5 +4,8 @@
     "footer": "content/data/footer.json",
     "titleSuffix": "Theme Demo",
     "defaultSocialImage": "/images/MCD79 - the Modern Workplace Blog.png",
-    "type": "Config"
+    "type": "Config",
+    "domain": "https://www.mcd79.com",
+    "author": "Kevin McDonnell",
+    "authorTwitter": "@kevmcdonk"
 }

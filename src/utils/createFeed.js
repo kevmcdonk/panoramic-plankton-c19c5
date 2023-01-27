@@ -1,7 +1,8 @@
 const Feed = require('feed').Feed;
 const markdown = require('markdown').markdown;
 const fs = require('fs');
-const config = require('../../content/data/config.json');
+const config = require('../../content/data/site.json');
+const header = require('../../content/data/header.json');
 const path = require('path');
 import matter from 'gray-matter';
 
@@ -21,8 +22,8 @@ function generateRssFeed() {
     };
 
     const feed = new Feed({
-        title: config.header.title,
-        description: config.header.tagline,
+        title: header.title,
+        description: header.tagline,
         id: config.domain,
         link: 'https://www.mcd79.com',
         language: 'en',
