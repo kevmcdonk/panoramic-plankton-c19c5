@@ -3,7 +3,7 @@ title: Home
 slug: /
 sections:
   - title:
-      text: The modern workplace podcast around all things Microsoft 365
+      text: a Modern Workplace with Microsoft 365 blog by Kevin McDonnell
       color: text-dark
       styles:
         self:
