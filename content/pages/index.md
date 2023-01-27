@@ -3,7 +3,7 @@ title: Home
 slug: /
 sections:
   - title:
-      text: a Modern Workplace with Microsoft 365 blog by Kevin McDonnell
+      text: A Modern Workplace with Microsoft 365 blog by Kevin McDonnell
       color: text-dark
       styles:
         self:
