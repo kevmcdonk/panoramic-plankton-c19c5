@@ -1,6 +1,6 @@
 ---
 title: Community
-slug: careers
+slug: community
 sections:
   - title:
       text: A team that works closely together
