@@ -12,11 +12,15 @@ sections:
     subtitle: >-
       This is the best place to go for all your branding needs! From logo design
       to social media marketing, we can help get your business noticed.
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      From dev to PM, SharePoint farm owner to analyst, Kevin has done it all
+      and has the hair (or lack of) to prove it. Having started in the world of
+      Financial Services with delivering solutions on Microsoft technologies to
+      help staff collaborate and be more productive, Kevin jumped the fence a
+      few years ago to the consultancy side. He has always loved to share and is
+      a Microsoft MVP in Microsoft 365 Apps and Services, Viva Explorer and
+      co-hosts the weekly modern workplace podcast GreyHatBeardPrincess in
+      between his day job as a Head of Practice for Modern Workplace at CPS.
     actions: []
     elementId: homepage-hero
     colors: bg-light-fg-dark
