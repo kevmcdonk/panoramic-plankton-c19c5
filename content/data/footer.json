@@ -8,15 +8,15 @@
     "text": "*a Modern Workplace with Microsoft 365 blog by Kevin McDonnell*\n",
     "socialLinks": [
         {
-            "altText": "GitHub link",
-            "url": "https://github.com/kevmcdonk",
-            "icon": "github",
-            "type": "Social"
-        },
-        {
             "altText": "Twitter link",
             "url": "https://twitter.com/kevmcdonk",
             "icon": "twitter",
+            "type": "Social"
+        },
+        {
+            "altText": "GitHub link",
+            "url": "https://github.com/kevmcdonk",
+            "icon": "github",
             "type": "Social"
         },
         {
