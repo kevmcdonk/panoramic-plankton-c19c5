@@ -3,7 +3,7 @@ title: Home
 slug: /
 sections:
   - title:
-      text: 'The modern workplace podcast '
+      text: The modern workplace podcast around all things Microsoft 365
       color: text-dark
       styles:
         self:
