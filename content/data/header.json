@@ -25,7 +25,7 @@
         },
         {
             "label": "Community",
-            "altText": "Careers page",
+            "altText": "My involvement in the Microsoft Community",
             "url": "/community",
             "icon": "arrowRight",
             "iconPosition": "right",
