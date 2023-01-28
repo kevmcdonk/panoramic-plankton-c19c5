@@ -208,7 +208,7 @@ sections:
       - title: Microsoft MVP
         subtitle: Microsoft 365 Apps & Services
         image:
-          url: /images/post-three.svg
+          url: /images/MVP_Logo_Horizontal_Preferred_Cyan300_CMYK_300ppi.png
           altText: Stackbit logomark on red background
           elementId: ''
           styles:
