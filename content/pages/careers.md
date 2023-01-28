@@ -173,7 +173,7 @@ sections:
 
       - title: Viva Explorers
         image:
-          url: /images/post-two.svg
+          url: /images/VivaExplorersHeader.png
           altText: Lightning bolt symbol on red background
           elementId: ''
           styles:
