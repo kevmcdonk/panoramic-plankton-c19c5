@@ -218,7 +218,8 @@ sections:
         actions:
           - label: Learn more
             altText: ''
-            url: /
+            url: >-
+              https://mvp.microsoft.com/en-us/PublicProfile/5004226?fullName=Kevin%20McDonnell
             showIcon: true
             icon: arrowRight
             iconPosition: right
