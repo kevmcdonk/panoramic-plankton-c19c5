@@ -42,7 +42,7 @@ sections:
         textAlign: center
     type: GenericSection
   - title:
-      text: Open positions
+      text: Recent sessions
       color: text-dark
       styles:
         self:
