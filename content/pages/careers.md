@@ -69,6 +69,7 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
+        tagline: 'Sharing the '
       - title: Open Source Engineer
         subtitle: Marketing
         text: >-
