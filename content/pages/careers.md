@@ -182,7 +182,7 @@ sections:
           type: ImageBlock
         actions:
           - label: Learn more
-            altText: ''
+            altText: Viva Explorers website
             url: 'https://www.vivaexplorers.com/'
             showIcon: true
             icon: arrowRight
