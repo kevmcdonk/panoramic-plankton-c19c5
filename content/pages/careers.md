@@ -237,6 +237,40 @@ sections:
             borderRadius: x-large
             flexDirection: row
         type: FeaturedItem
+      - type: FeaturedItem
+        title: Sessionize Profile
+        tagline: null
+        subtitle: This is the item subtitle
+        text: null
+        image:
+          url: /images/post-one.svg
+          altText: Exclamation mark on red background
+          elementId: ''
+          styles:
+            self:
+              borderRadius: x-large
+          type: ImageBlock
+        actions:
+          - label: Learn more
+            altText: ''
+            url: /
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+            type: Link
+        elementId: null
+        colors: bg-neutral-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
     actions: []
     badge: null
     elementId: ''
