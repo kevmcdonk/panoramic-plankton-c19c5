@@ -229,7 +229,7 @@ sections:
     actions: []
     badge: null
     elementId: ''
-    variant: toggle-list
+    variant: small-list
     colors: bg-light-fg-dark
     backgroundImage: null
     styles:
