@@ -40,34 +40,6 @@ sections:
         textAlign: center
     type: GenericSection
   - title:
-      text: Meet the team
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
-    people:
-      - content/data/team/Asher-Schmitt.json
-      - content/data/team/Faizah-Chan.json
-      - content/data/team/Drake-Garza.json
-      - content/data/team/Nina-Mercado.json
-      - content/data/team/Harrison-Talley.json
-      - content/data/team/Rhonda-Piper.json
-      - content/data/team/Tiya-Greenwood.json
-    variant: mixed-grid
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: FeaturedPeopleSection
-  - title:
       text: Open positions
       color: text-dark
       styles:
