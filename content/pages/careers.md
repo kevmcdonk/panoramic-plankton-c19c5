@@ -171,7 +171,7 @@ sections:
           happening in the news and sharing opinions with our guests on their
           favourite topics.
 
-      - title: Feature Item Two
+      - title: Viva Explorers
         subtitle: This is the item subtitle
         image:
           url: /images/post-two.svg
