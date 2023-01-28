@@ -174,7 +174,7 @@ sections:
       - title: Viva Explorers
         image:
           url: /images/VivaExplorers.png
-          altText: Lightning bolt symbol on red background
+          altText: The Viva Explorers logo
           elementId: ''
           styles:
             self:
