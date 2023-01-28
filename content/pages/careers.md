@@ -13,8 +13,17 @@ sections:
       Sharing knowledge and opinions to help others with blogs, links to
       sessions and other community activities
     text: >
-      Sharing knowledge and opinions to help others with blogs, links to
-      sessions and other community activities
+      Throughout my career, I have learnt from people like Marc Anderson, Jeremy
+      Thake and Andrew Connell - they all shared what they were doing and
+      learning. This inspired me to try and share more and help others
+      understand the technology, how it could be used, why it should be used and
+      what can be done to extend it even further. My aims have been to share
+      through blogs, videos and conference presentations, supporting events and
+      other communities where I can.
+
+
+      This page highlights some of those things that I have done, am doing and
+      plan to do.
     actions:
       - label: See open positions
         url: /
