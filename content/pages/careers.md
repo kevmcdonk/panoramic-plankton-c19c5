@@ -172,7 +172,7 @@ sections:
           favourite topics.
 
       - title: Viva Explorers
-        subtitle: This is the item subtitle
+        subtitle: 'A '
         image:
           url: /images/post-two.svg
           altText: Lightning bolt symbol on red background
