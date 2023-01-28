@@ -136,7 +136,7 @@ sections:
       - title: GreyHatBeardPrincess Podcast
         subtitle: The modern workplace podcast about all things Microsoft
         image:
-          url: /images/post-one.svg
+          url: /images/GreyHatBeard-large.png
           altText: Exclamation mark on red background
           elementId: ''
           styles:
