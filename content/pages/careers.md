@@ -240,7 +240,9 @@ sections:
       - type: FeaturedItem
         title: Sessionize Profile
         tagline: null
-        text: null
+        text: |+
+          List of sessions that I do at events
+
         image:
           url: /images/Sessionize Icon-3281f26d.png
           altText: Exclamation mark on red background
