@@ -133,7 +133,7 @@ sections:
       type: TitleBlock
     subtitle: Featured items section subtitle
     items:
-      - title: Feature Item One
+      - title: GreyHatBeardPrincess Podcast
         subtitle: This is the item subtitle
         image:
           url: /images/post-one.svg
