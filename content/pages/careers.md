@@ -69,7 +69,6 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-        tagline: Viva Workshop and Viva Explorers panel session
       - title: Open Source Engineer
         subtitle: Marketing
         text: >-
