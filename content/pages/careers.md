@@ -73,10 +73,9 @@ sections:
         subtitle: >-
           Using Viva Goals in Teams to build purpose and focus throughout your
           organisation
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Remotely sharing how Viva Goals to share purpose and focus across an
+          organisation with the OKR Framework.
         colors: bg-neutral-fg-dark
         styles:
           self:
