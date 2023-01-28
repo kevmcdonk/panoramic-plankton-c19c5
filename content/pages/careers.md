@@ -48,7 +48,6 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
     items:
       - title: 'European SharePoint, Azure and Office 365 Conference 2023'
         subtitle: Viva Workshop and Viva Explorers panel session
