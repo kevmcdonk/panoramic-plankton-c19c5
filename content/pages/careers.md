@@ -70,7 +70,9 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: Teams Community Day Germany
-        subtitle: Marketing
+        subtitle: >-
+          Using Viva Goals in Teams to build purpose and focus throughout your
+          organisation
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
