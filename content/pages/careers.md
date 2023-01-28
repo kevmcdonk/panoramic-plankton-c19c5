@@ -201,6 +201,10 @@ sections:
             borderRadius: x-large
             flexDirection: row
         type: FeaturedItem
+        text: >
+          A community of employee experience focused MVPs looking to share the
+          why, the what and the how of Microsoft Viva through conference
+          sessions, dedicated community events and sharing online.
       - title: Feature Item Three
         subtitle: This is the item subtitle
         image:
