@@ -164,6 +164,13 @@ sections:
             borderRadius: x-large
             flexDirection: row
         type: FeaturedItem
+        text: >+
+          Every couple of weeks we talk about all things modern workplace, often
+          with a special guest. Al Eardley, Garry Trinder and Luise Freese chat
+          as if it was in the pub after a user group, digesting what has been
+          happening in the news and sharing opinions with our guests on their
+          favourite topics.
+
       - title: Feature Item Two
         subtitle: This is the item subtitle
         image:
