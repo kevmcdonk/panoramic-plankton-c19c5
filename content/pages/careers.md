@@ -229,7 +229,7 @@ sections:
     actions: []
     badge: null
     elementId: ''
-    variant: two-col-grid
+    variant: toggle-list
     colors: bg-light-fg-dark
     backgroundImage: null
     styles:
