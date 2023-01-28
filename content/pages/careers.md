@@ -206,7 +206,7 @@ sections:
           why, the what and the how of Microsoft Viva through conference
           sessions, dedicated community events and sharing online.
       - title: Microsoft MVP
-        subtitle: This is the item subtitle
+        subtitle: Microsoft 365 Apps & Services
         image:
           url: /images/post-three.svg
           altText: Stackbit logomark on red background
