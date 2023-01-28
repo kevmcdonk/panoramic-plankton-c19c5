@@ -172,9 +172,6 @@ sections:
           favourite topics.
 
       - title: Viva Explorers
-        subtitle: >-
-          A community of employee experience focused MVPs looking to share the
-          why, the what and the how of Microsoft Viva
         image:
           url: /images/post-two.svg
           altText: Lightning bolt symbol on red background
