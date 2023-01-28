@@ -69,7 +69,7 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-        tagline: 'Sharing the '
+        tagline: 'Viva Workshop and '
       - title: Open Source Engineer
         subtitle: Marketing
         text: >-
