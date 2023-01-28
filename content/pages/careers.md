@@ -3,7 +3,7 @@ title: Community
 slug: community
 sections:
   - title:
-      text: A team that works closely together
+      text: '#CommunityRocks'
       color: text-dark
       styles:
         self:
