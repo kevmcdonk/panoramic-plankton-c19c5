@@ -24,13 +24,7 @@ sections:
 
       This page highlights some of those things that I have done, am doing and
       plan to do.
-    actions:
-      - label: See open positions
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Button
+    actions: []
     colors: bg-neutral-fg-dark
     styles:
       self:
