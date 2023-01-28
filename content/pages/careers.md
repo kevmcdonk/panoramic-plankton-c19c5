@@ -240,7 +240,6 @@ sections:
       - type: FeaturedItem
         title: Sessionize Profile
         tagline: null
-        subtitle: This is the item subtitle
         text: null
         image:
           url: /images/Sessionize Icon-3281f26d.png
