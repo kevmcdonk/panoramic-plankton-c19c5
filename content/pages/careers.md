@@ -91,10 +91,13 @@ sections:
         type: FeaturedItem
       - title: South Coast Summit
         subtitle: 'Track lead, volunteer and speaker'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          The South Coast Summit is a great event that brings the community
+          together to share knowledge for free, backed by sponsors and with
+          experts giving their time for free. I helped the organisers by
+          arranging the productivity and collaboration track, running the Viva
+          workshop with Zoe Wilson and Chirag Patel and speaking at three
+          different sessions during the main day.
         colors: bg-neutral-fg-dark
         styles:
           self:
