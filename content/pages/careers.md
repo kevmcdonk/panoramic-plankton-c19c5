@@ -205,7 +205,7 @@ sections:
           A community of employee experience focused MVPs looking to share the
           why, the what and the how of Microsoft Viva through conference
           sessions, dedicated community events and sharing online.
-      - title: Feature Item Three
+      - title: Microsoft MVP
         subtitle: This is the item subtitle
         image:
           url: /images/post-three.svg
