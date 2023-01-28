@@ -243,7 +243,7 @@ sections:
         subtitle: This is the item subtitle
         text: null
         image:
-          url: /images/Sessionize Icon.png
+          url: /images/Sessionize Icon-3281f26d.png
           altText: Exclamation mark on red background
           elementId: ''
           styles:
