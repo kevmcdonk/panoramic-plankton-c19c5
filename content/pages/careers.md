@@ -125,7 +125,7 @@ sections:
     type: FeaturedItemsSection
   - type: FeaturedItemsSection
     title:
-      text: List of features here
+      text: Community activities
       color: text-primary
       styles:
         self:
