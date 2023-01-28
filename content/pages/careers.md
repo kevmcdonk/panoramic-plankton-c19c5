@@ -9,7 +9,9 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Helping others to be able to help themselves
+    subtitle: >-
+      Sharing knowledge and opinions to help others with blogs, links to
+      sessions and other community activities
     text: >
       Sharing knowledge and opinions to help others with blogs, links to
       sessions and other community activities
