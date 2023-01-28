@@ -145,7 +145,7 @@ sections:
           type: ImageBlock
         actions:
           - label: Learn more
-            altText: ''
+            altText: GreyHatBeardPrincess website
             url: 'https://www.greyhatbeard.com'
             showIcon: true
             icon: arrowRight
