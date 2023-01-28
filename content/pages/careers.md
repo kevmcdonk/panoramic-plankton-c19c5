@@ -134,7 +134,7 @@ sections:
     subtitle: Featured items section subtitle
     items:
       - title: GreyHatBeardPrincess Podcast
-        subtitle: This is the item subtitle
+        subtitle: 'The modern workplace podcast about all things Microsoft '
         image:
           url: /images/post-one.svg
           altText: Exclamation mark on red background
