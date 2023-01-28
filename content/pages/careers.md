@@ -245,7 +245,7 @@ sections:
 
         image:
           url: /images/Sessionize Icon-3281f26d.png
-          altText: Exclamation mark on red background
+          altText: Me presenting at the South Coast Summit
           elementId: ''
           styles:
             self:
