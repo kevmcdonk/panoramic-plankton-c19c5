@@ -146,7 +146,7 @@ sections:
         actions:
           - label: Learn more
             altText: ''
-            url: /
+            url: 'https://www.vivaexplorers.com'
             showIcon: true
             icon: arrowRight
             iconPosition: right
