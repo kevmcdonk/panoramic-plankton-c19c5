@@ -51,10 +51,11 @@ sections:
     items:
       - title: 'European SharePoint, Azure and Office 365 Conference 2023'
         subtitle: Viva Workshop and Viva Explorers panel session
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Over in Copenhagen, I joined Zoe Wilson and Chirag Patel in delivering
+          a full day workshop around Microsoft Viva with hands-on experience for
+          the attendees. This was followed up with a panel session with Zoe and
+          Chirag as well as Leslie Crook and beautifully helmed by Sara Fennah.
         colors: bg-neutral-fg-dark
         styles:
           self:
