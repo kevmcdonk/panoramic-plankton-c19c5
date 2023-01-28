@@ -146,7 +146,7 @@ sections:
         actions:
           - label: Learn more
             altText: ''
-            url: 'https://www.vivaexplorers.com'
+            url: 'https://www.greyhatbeard.com'
             showIcon: true
             icon: arrowRight
             iconPosition: right
