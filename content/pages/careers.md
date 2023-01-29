@@ -253,7 +253,6 @@ sections:
         actions:
           - label: Learn more
             altText: ''
-            url: /
             showIcon: true
             icon: arrowRight
             iconPosition: right
