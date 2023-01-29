@@ -259,6 +259,7 @@ sections:
             style: primary
             elementId: ''
             type: Link
+            url: 'https://sessionize.com/kevin-mcdonnell/'
         elementId: null
         colors: bg-neutral-fg-dark
         styles:
