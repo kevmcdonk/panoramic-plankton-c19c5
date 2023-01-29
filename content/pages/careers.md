@@ -1,28 +1,30 @@
 ---
-title: Careers
-slug: careers
+title: Community
+slug: community
 sections:
   - title:
-      text: A team that works closely together
+      text: '#CommunityRocks'
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Section subtitle
+    subtitle: >-
+      Sharing knowledge and opinions to help others with blogs, links to
+      sessions and other community activities
     text: >
-      There are many variations of passages of Lorem Ipsum available, but the
-      majority have suffered alteration in some form, by injected humour, or
-      randomised words which don't look even slightly believable. If you are
-      going to use a passage of Lorem Ipsum, you need to be sure there isn't
-      anything embarrassing hidden in the middle of text.
-    actions:
-      - label: See open positions
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Button
+      Throughout my career, I have learnt from people like Marc Anderson, Jeremy
+      Thake and Andrew Connell - they all shared what they were doing and
+      learning. This inspired me to try and share more and help others
+      understand the technology, how it could be used, why it should be used and
+      what can be done to extend it even further. My aims have been to share
+      through blogs, videos and conference presentations, supporting events and
+      other communities where I can.
+
+
+      This page highlights some of those things that I have done, am doing and
+      plan to do.
+    actions: []
     colors: bg-neutral-fg-dark
     styles:
       self:
@@ -40,48 +42,20 @@ sections:
         textAlign: center
     type: GenericSection
   - title:
-      text: Meet the team
+      text: Recent sessions
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    people:
-      - content/data/team/Asher-Schmitt.json
-      - content/data/team/Faizah-Chan.json
-      - content/data/team/Drake-Garza.json
-      - content/data/team/Nina-Mercado.json
-      - content/data/team/Harrison-Talley.json
-      - content/data/team/Rhonda-Piper.json
-      - content/data/team/Tiya-Greenwood.json
-    variant: mixed-grid
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: FeaturedPeopleSection
-  - title:
-      text: Open positions
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
-    subtitle: Subtitle goes here
     items:
-      - title: Account Executive
-        subtitle: Sales
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: 'European SharePoint, Azure and Office 365 Conference 2023'
+        subtitle: Viva Workshop and Viva Explorers panel session
+        text: >
+          Over in Copenhagen, I joined Zoe Wilson and Chirag Patel in delivering
+          a full day workshop around Microsoft Viva with hands-on experience for
+          the attendees. This was followed up with a panel session with Zoe and
+          Chirag as well as Leslie Crook and beautifully helmed by Sara Fennah.
         colors: bg-neutral-fg-dark
         styles:
           self:
@@ -95,12 +69,13 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: Open Source Engineer
-        subtitle: Marketing
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: Teams Community Day Germany
+        subtitle: >-
+          Using Viva Goals in Teams to build purpose and focus throughout your
+          organisation
+        text: >
+          Remotely sharing how Viva Goals to share purpose and focus across an
+          organisation with the OKR Framework.
         colors: bg-neutral-fg-dark
         styles:
           self:
@@ -114,12 +89,15 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: Senior Software Engineer
-        subtitle: Engineering
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: South Coast Summit
+        subtitle: 'Track lead, volunteer and speaker'
+        text: >
+          The South Coast Summit is a great event that brings the community
+          together to share knowledge for free, backed by sponsors and with
+          experts giving their time for free. I helped the organisers by
+          arranging the productivity and collaboration track, running the Viva
+          workshop with Zoe Wilson and Chirag Patel and speaking at three
+          different sessions during the main day.
         colors: bg-neutral-fg-dark
         styles:
           self:
@@ -131,14 +109,8 @@ sections:
             borderRadius: x-large
             flexDirection: row
         type: FeaturedItem
-    actions:
-      - label: Apply now
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Button
-    variant: toggle-list
+    actions: []
+    variant: three-col-grid
     colors: bg-light-fg-dark
     styles:
       self:
@@ -151,6 +123,171 @@ sections:
       subtitle:
         textAlign: center
     type: FeaturedItemsSection
+  - type: FeaturedItemsSection
+    title:
+      text: Community activities
+      color: text-primary
+      styles:
+        self:
+          textAlign: center
+      type: TitleBlock
+    subtitle: Featured items section subtitle
+    items:
+      - title: GreyHatBeardPrincess Podcast
+        subtitle: The modern workplace podcast about all things Microsoft
+        image:
+          url: /images/GreyHatBeard-large.png
+          altText: Exclamation mark on red background
+          elementId: ''
+          styles:
+            self:
+              borderRadius: x-large
+          type: ImageBlock
+        actions:
+          - label: Learn more
+            altText: GreyHatBeardPrincess website
+            url: 'https://www.greyhatbeard.com'
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+            type: Link
+        colors: bg-neutral-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+        type: FeaturedItem
+        text: >+
+          Every couple of weeks we talk about all things modern workplace, often
+          with a special guest. Al Eardley, Garry Trinder and Luise Freese chat
+          as if it was in the pub after a user group, digesting what has been
+          happening in the news and sharing opinions with our guests on their
+          favourite topics.
+
+      - title: Viva Explorers
+        image:
+          url: /images/VivaExplorers.png
+          altText: The Viva Explorers logo
+          elementId: ''
+          styles:
+            self:
+              borderRadius: x-large
+          type: ImageBlock
+        actions:
+          - label: Learn more
+            altText: Viva Explorers website
+            url: 'https://www.vivaexplorers.com/'
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+            type: Link
+        colors: bg-neutral-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+        type: FeaturedItem
+        text: >
+          A community of employee experience focused MVPs looking to share the
+          why, the what and the how of Microsoft Viva through conference
+          sessions, dedicated community events and sharing online.
+      - title: Microsoft MVP
+        subtitle: Microsoft 365 Apps & Services
+        image:
+          url: /images/MVP_Logo_Horizontal_Preferred_Cyan300_CMYK_300ppi.png
+          altText: Stackbit logomark on red background
+          elementId: ''
+          styles:
+            self:
+              borderRadius: x-large
+          type: ImageBlock
+        actions:
+          - label: Learn more
+            altText: MVP Profile
+            url: >-
+              https://mvp.microsoft.com/en-us/PublicProfile/5004226?fullName=Kevin%20McDonnell
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+            type: Link
+        colors: bg-neutral-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+        type: FeaturedItem
+      - type: FeaturedItem
+        title: Sessionize Profile
+        tagline: null
+        text: |+
+          List of sessions that I do at events
+
+        image:
+          url: /images/Sessionize Icon-3281f26d.png
+          altText: Me presenting at the South Coast Summit
+          elementId: ''
+          styles:
+            self:
+              borderRadius: x-large
+          type: ImageBlock
+        actions:
+          - label: Learn more
+            altText: ''
+            url: /
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+            type: Link
+        elementId: null
+        colors: bg-neutral-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+    actions: []
+    badge: null
+    elementId: ''
+    variant: small-list
+    colors: bg-light-fg-dark
+    backgroundImage: null
+    styles:
+      self:
+        padding:
+          - pt-16
+          - pl-8
+          - pb-8
+          - pr-8
+        justifyContent: center
+      subtitle:
+        textAlign: center
 seo:
   metaTitle: Careers - Demo site
   metaDescription: This is the careers page built with Stackbit.

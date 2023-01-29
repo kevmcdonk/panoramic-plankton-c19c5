@@ -1,100 +1,32 @@
 {
     "logo": {
-        "url": "/images/logo-mark-light.svg",
-        "altText": "Logo light",
+        "url": "/images/MVP_Logo_Horizontal_Preferred_Cyan300_CMYK_300ppi.png",
+        "altText": "Microsoft MVP",
         "type": "ImageBlock"
     },
-    "title": "Your Brand",
-    "text": "A description of your brand",
-    "primaryLinks": {
-        "title": "Product",
-        "links": [
-            {
-                "label": "Features",
-                "altText": "Features page",
-                "url": "/features",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            },
-            {
-                "label": "Pricing",
-                "url": "/pricing",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            },
-            {
-                "label": "Documentation",
-                "url": "/",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            }
-        ],
-        "type": "FooterLinksGroup"
-    },
-    "secondaryLinks": {
-        "title": "Company",
-        "links": [
-            {
-                "label": "Careers",
-                "altText": "careers page",
-                "url": "/careers",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            },
-            {
-                "label": "Blog",
-                "url": "/blog",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            }
-        ],
-        "type": "FooterLinksGroup"
-    },
+    "title": "Mcd79",
+    "text": "*a Modern Workplace with Microsoft 365 blog by Kevin McDonnell*\n",
     "socialLinks": [
         {
-            "altText": "GitHub link",
-            "url": "https://github.com/stackbit",
-            "icon": "github",
-            "type": "Social"
-        },
-        {
             "altText": "Twitter link",
-            "url": "https://twitter.com/stackbit",
+            "url": "https://twitter.com/kevmcdonk",
             "icon": "twitter",
             "type": "Social"
         },
         {
             "altText": "LinkedIn link",
-            "url": "https://www.linkedin.com/company/stackbit",
+            "url": "https://www.linkedin.com/in/kevmcdonnell",
             "icon": "linkedin",
             "type": "Social"
         },
         {
-            "altText": "Email link",
-            "url": "/",
-            "icon": "mail",
+            "altText": "GitHub link",
+            "url": "https://github.com/kevmcdonk",
+            "icon": "github",
             "type": "Social"
         }
     ],
     "legalLinks": [
-        {
-            "label": "Terms",
-            "url": "/",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
         {
             "label": "Privacy",
             "url": "/",
