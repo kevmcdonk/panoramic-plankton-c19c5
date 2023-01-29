@@ -51,7 +51,7 @@ sections:
           - pr-16
   - type: GenericSection
     title:
-      text: Dope Design
+      text: Skills
       color: text-dark
       type: TitleBlock
     subtitle: Dope design section subtitle
