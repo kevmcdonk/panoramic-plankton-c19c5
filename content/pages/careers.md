@@ -131,7 +131,6 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Featured items section subtitle
     items:
       - title: GreyHatBeardPrincess Podcast
         subtitle: The modern workplace podcast about all things Microsoft
@@ -254,13 +253,13 @@ sections:
         actions:
           - label: Learn more
             altText: ''
-            url: /
             showIcon: true
             icon: arrowRight
             iconPosition: right
             style: primary
             elementId: ''
             type: Link
+            url: 'https://sessionize.com/kevin-mcdonnell/'
         elementId: null
         colors: bg-neutral-fg-dark
         styles:
@@ -288,6 +287,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+    subtitle: Areas where I give back on a regular basis
 seo:
   metaTitle: Careers - Demo site
   metaDescription: This is the careers page built with Stackbit.

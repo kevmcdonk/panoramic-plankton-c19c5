@@ -2,119 +2,116 @@
 title: About Me
 slug: aboutme
 sections:
-  - title:
-      text: Flexible Pricing
+  - type: GenericSection
+    title:
+      text: Introduction
       color: text-dark
-      styles:
-        self:
-          textAlign: center
       type: TitleBlock
-    subtitle: This is the subtitle for the pricing section
-    plans:
-      - title: Developers
-        price: Free
-        details: No credit card required
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
-        features:
-          - Feature one
-          - Feature two
-          - Feature three
-          - Feature four
-        image:
-          url: /images/pricing-plan-1.svg
-          altText: Pricing plan 1
-          type: ImageBlock
-        actions:
-          - label: Try for free
-            url: /
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
-            type: Button
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-6
-              - pb-10
-              - pl-6
-              - pr-6
-            borderRadius: large
-        type: PricingPlan
-      - title: Professional
-        price: $99
-        details: per month
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
-        features:
-          - Feature one
-          - Feature two
-          - Feature three
-          - Feature four
-        image:
-          url: /images/pricing-plan-2.svg
-          altText: Pricing plan 2
-          type: ImageBlock
-        actions:
-          - label: Try for free
-            url: /
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
-            type: Button
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-6
-              - pb-10
-              - pl-6
-              - pr-6
-            borderRadius: large
-        type: PricingPlan
-      - title: Enterprise
-        price: Custom
-        details: per month
-        description: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam.
-        features:
-          - Feature one
-          - Feature two
-          - Feature three
-          - Feature four
-          - Feature five
-        image:
-          url: /images/pricing-plan-3.svg
-          altText: Pricing plan 3
-          type: ImageBlock
-        actions:
-          - label: Contact us
-            url: /
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
-            type: Button
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-6
-              - pb-10
-              - pl-6
-              - pr-6
-            borderRadius: large
-        type: PricingPlan
+    subtitle: Intro
+    text: >+
+      From developer to project manager, SharePoint farm owner to business
+      analyst, Kevin has done it all and has the hair (or
+
+      lack of) to prove it. Having started in the world of Financial Services
+      with delivering solutions on Microsoft technologies to help staff
+      collaborate and be more productive, Kevin jumped the fence a few years ago
+      to the consultancy side. He has always loved to share and is a Microsoft
+      MVP in Microsoft 365 Apps and Services, Viva Explorer and co-hosts the
+      weekly modern workplace podcast
+
+      GreyHatBeardPrincess in between his day job as a Group Manager for Modern
+
+      Workplace at Avanade.
+
+
+
+
+
+    actions: []
+    media:
+      url: /images/ESPSC-Workshop2.jpg
+      altText: Me presenting at ESPC
+      elementId: ''
+      type: ImageBlock
+    badge:
+      label: This is a badge
+      color: text-primary
+      type: Badge
+    elementId: ''
     colors: bg-light-fg-dark
+    backgroundImage: null
     styles:
       self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: PricingSection
+        alignItems: center
+        flexDirection: row-reverse
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
+  - type: GenericSection
+    title:
+      text: Skills
+      color: text-dark
+      type: TitleBlock
+    text: |+
+      *   Microsoft 365 expert with ability to understand
+          clients’ needs and bridge the gaps between requirements and technical
+          implementation.
+
+      *   Experience of Microsoft 365 as product owner,
+          developer, architect, user and admin, development with ability to implement out
+          of the box or extend with custom development.
+
+      *   Regular contributor to wider Microsoft community as
+          a speaker, sharing knowledge through the GreyHatBeardPrincess podcast,
+          contributing to open source projects and engaging with Microsoft.
+
+      *   Managed annual budgets of up to £2 million and teams
+          across multiple global regions on client side, owner of pre-sales for
+          collaboration and employee experience engagements, connecting with senior
+          leaders to win opportunities.
+
+      *   Engagement with Microsoft through Partner and MVP
+          relationships to help shape strategy, especially in world of Employee
+          Experience with Microsoft Viva.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    actions: []
+    media:
+      url: /images/IMG_1568 (1).JPG
+      altText: Me presenting to the Viva Explorers Community Day
+      elementId: ''
+      type: ImageBlock
+    badge:
+      label: This is a badge
+      color: text-primary
+      type: Badge
+    elementId: ''
+    colors: bg-light-fg-dark
+    backgroundImage: null
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
 seo:
   metaTitle: Pricing - Demo site
   metaDescription: This is the pricing page built with Stackbit.
