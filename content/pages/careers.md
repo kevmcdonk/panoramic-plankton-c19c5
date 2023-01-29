@@ -287,6 +287,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+    subtitle: Areas where I contri
 seo:
   metaTitle: Careers - Demo site
   metaDescription: This is the careers page built with Stackbit.
