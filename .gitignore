@@ -45,3 +45,5 @@ yarn-error.log*
 tmp*
 public/rss/atom.xml
 public/rss/index.xml
+public/rss/feed.json
+public/rss/index.xml

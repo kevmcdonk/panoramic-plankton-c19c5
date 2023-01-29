@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
-        <title>Your Brand</title>
+        <title>Mcd79</title>
         <link>https://www.mcd79.com</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 28 Jan 2023 17:28:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Jan 2023 15:54:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Next.js using Feed for Node.js</generator>
         <language>en</language>
         <ttl>60</ttl>
         <image>
-            <title>Your Brand</title>
+            <title>Mcd79</title>
             <url>https://www.mcd79.com/images/KMcDonnell-Square-BW%20conv.jpeg</url>
             <link>https://www.mcd79.com</link>
         </image>
@@ -20,6 +20,7 @@
             <link>https://www.mcd79.com/undefined</link>
             <guid>https://www.mcd79.com/undefined</guid>
             <pubDate>Sat, 30 Apr 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Introducing my role as Viva Transformer in the Viva Explorers]]></description>
             <content:encoded><![CDATA[<p>“In 2022, a crack community unit was sent to Microsoft for some contracts that they couldn’t commit. These people promptly got together, not escaping from Teams, to explore the world of Microsoft Viva. Today, still wanted by the community they serve, they survive as collaborators of fortune. If you have an employee experience problem, if no-one else can help and, wherever you can find them…maybe you can hear from the Viva Explorers.”</p>
 
 <p>Thanks to the great mind of Lesley Crook (and with apologies to the A-Team), a group of community minded people has come together to help you understand the world of Microsoft Viva. You can read the tale on the <a href="https://techcommunity.microsoft.com/t5/microsoft-teams-community-blog/join-vivaexplorers-in-an-empathic-hybrid-workplace/ba-p/3280353">Tech Community blog</a> but this post is about the part that I play - the Viva Transformer.</p>
@@ -71,6 +72,7 @@ Why do I do this? I want this focus on employees at the centre to benefit as org
             <link>https://www.mcd79.com/undefined</link>
             <guid>https://www.mcd79.com/undefined</guid>
             <pubDate>Sun, 12 Jun 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Why it is about more than just tech]]></description>
             <content:encoded><![CDATA[<p>Beautiful city, great speakers, all the Microsoft content, plenty of drinks - that is the way to spend a couple of days. At the start of June, I was one of the over one thousand people who attended the Scottish Summit in Glasgow, a Microsoft Community event that has been running for several years now but was the first year back in person since the start of the pandemic. Here are a few of my thoughts as I head back home.</p>
 
 <h2>The importance of accessibility for all</h2>
@@ -108,6 +110,7 @@ Why do I do this? I want this focus on employees at the centre to benefit as org
             <link>https://www.mcd79.com/undefined</link>
             <guid>https://www.mcd79.com/undefined</guid>
             <pubDate>Sat, 18 Jun 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Aligning Viva to more than HR?]]></description>
             <content:encoded><![CDATA[<p>On 16 June, Microsoft dropped a surprise on us - a brand new Viva pillar. Viva Sales has allows employees to enter CRM data, whatever your CRM and powered by AI. With nudges and hints to help you do the right thing, it will truly power a more productive and effective sales force (whether with Salesforce, Dynamics or something else). What is more interesting though is what this means to the future of Viva.</p>
 
 <h2>What is Viva?</h2>
@@ -170,6 +173,7 @@ Employee experience platform from Microsoft that puts the employee at the centre
             <link>https://www.mcd79.com/undefined</link>
             <guid>https://www.mcd79.com/undefined</guid>
             <pubDate>Tue, 13 Sep 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Why you would consider implementing Viva Goals]]></description>
             <content:encoded><![CDATA[<p>With the general availability of Viva Goals at the start of August 2022, many people have been wondering what the benefits are. The honest answer is that the majority are to do with the OKR (Objective Key Result) framework that Viva Goals helps organisations to implement it but the tools are just part of the equation. This blog post looks into some of the challenges that OKRs along with Viva Goals look to address. Future posts will look into:</p>
 
 <ul><li>The what of Viva Goals - covering what OKRs are and how Viva Goals supports these across your organisation</li><li>The how of Viva Goals - how you can set up Viva Goals and how it can transform your organisation</li></ul>

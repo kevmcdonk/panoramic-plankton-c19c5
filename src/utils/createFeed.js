@@ -78,7 +78,7 @@ function generateRssFeed() {
             const matterResponse = {
                 file,
                 title: matterResult.data.title,
-                description: matterResult.data.description,
+                description: matterResult.data.subtitle,
                 date: matterResult.data.date,
                 content: matterResult.content
             };
