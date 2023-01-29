@@ -12,7 +12,7 @@ postFeed:
     self: {}
   type: PagedPostsSection
 numOfPostsPerPage: 12
-enableSearch: true
+enableSearch: false
 topSections: []
 styles:
   title:
