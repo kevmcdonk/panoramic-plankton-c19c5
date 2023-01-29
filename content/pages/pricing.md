@@ -54,7 +54,6 @@ sections:
       text: Skills
       color: text-dark
       type: TitleBlock
-    subtitle: Dope design section subtitle
     text: |+
       *   Microsoft 365 expert with ability to understand
           clients’ needs and bridge the gaps between requirements and technical
