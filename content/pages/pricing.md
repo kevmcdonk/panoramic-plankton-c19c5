@@ -93,7 +93,7 @@ sections:
     actions: []
     media:
       url: /images/IMG_1568 (1).JPG
-      altText: Dope design preview
+      altText: Me presenting to the Viva Explorers Community Day
       elementId: ''
       type: ImageBlock
     badge:
