@@ -131,7 +131,6 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Featured items section subtitle
     items:
       - title: GreyHatBeardPrincess Podcast
         subtitle: The modern workplace podcast about all things Microsoft
