@@ -15,7 +15,7 @@ sections:
     actions: []
     media:
       url: /images/ESPSC-Workshop2.jpg
-      altText: Dope design preview
+      altText: Me presenting at ESPC
       elementId: ''
       type: ImageBlock
     badge:
