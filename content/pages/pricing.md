@@ -55,10 +55,42 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Dope design section subtitle
-    text: >
-      A Stackbit website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: |+
+      *   Microsoft 365 expert with ability to understand
+          clients’ needs and bridge the gaps between requirements and technical
+          implementation.
+
+      *   Experience of Microsoft 365 as product owner,
+          developer, architect, user and admin, development with ability to implement out
+          of the box or extend with custom development.
+
+      *   Regular contributor to wider Microsoft community as
+          a speaker, sharing knowledge through the GreyHatBeardPrincess podcast,
+          contributing to open source projects and engaging with Microsoft.
+
+      *   Managed annual budgets of up to £2 million and teams
+          across multiple global regions on client side, owner of pre-sales for
+          collaboration and employee experience engagements, connecting with senior
+          leaders to win opportunities.
+
+      *   Engagement with Microsoft through Partner and MVP
+          relationships to help shape strategy, especially in world of Employee
+          Experience with Microsoft Viva.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     actions:
       - label: Get started
         altText: ''
