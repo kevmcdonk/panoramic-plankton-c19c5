@@ -1,6 +1,6 @@
 ---
 title: 'Setting up Microsoft Syntex PAYG to process receipts'
-slug: /2023/01/setting-up-Microsoft-Syntex-PAYG-to-process-receipts
+slug: /2023/01/07/setting-up-Microsoft-Syntex-PAYG-to-process-receipts
 date: '2023-01-07'
 thumb_img_alt: 'A crunched up receipt'
 excerpt: >-

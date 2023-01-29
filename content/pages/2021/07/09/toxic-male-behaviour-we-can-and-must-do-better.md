@@ -1,7 +1,7 @@
 ---
 title: Toxic male behaviour - we can and must do better
 date: '2021-07-09'
-slug: /2021/07/Toxic-male-behaviour-we-can-and-must-do-better
+slug: /2021/07/09/Toxic-male-behaviour-we-can-and-must-do-better
 content_img_path: images/2021/07/dog.jpg
 thumb_img_alt: Bad Dog
 excerpt: >-

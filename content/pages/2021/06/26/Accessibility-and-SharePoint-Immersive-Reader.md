@@ -1,6 +1,6 @@
 ---
 title: Accessibility and SharePoint - welcome to the Immersive Reader
-slug: /2021/06/accessibility-and-sharepoint-immersive-reader
+slug: /2021/06/26/accessibility-and-sharepoint-immersive-reader
 excerpt: >-
   Have you heard, the Immersive Reader is now available to use with pages on SharePoint Online as part of Microsoft 365 so that you can improve the accessibility of content to readers of news and other content in your tenant. In this post, I will cover the importance of the Immersive Reader and what it can do for your users.
 date: '2021-05-02 14:00:00'

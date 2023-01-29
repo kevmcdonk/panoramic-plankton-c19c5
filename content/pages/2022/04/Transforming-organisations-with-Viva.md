@@ -1,6 +1,6 @@
 ---
 title: 'Transforming organisations with Viva'
-slug: /2022/06/viva-sales-and-what-it-means-for-the-future-of-viva
+slug: /2022/04/30/Transforming-organisations-with-Viva
 date: '2022-04-30'
 thumb_img_alt: Yellow car
 excerpt: >-

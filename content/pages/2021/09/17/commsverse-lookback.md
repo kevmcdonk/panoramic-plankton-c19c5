@@ -1,7 +1,7 @@
 ---
 title: 'Commsverse lookback '
 date: '2021-09-17'
-slug: '/2021/09/commsverse-lookback'
+slug: '/2021/09/17/commsverse-lookback'
 thumb_img_alt: View of the main conference room
 excerpt: >-
   On 15th and 16th September, I spoke at my first in-person conferin almost two

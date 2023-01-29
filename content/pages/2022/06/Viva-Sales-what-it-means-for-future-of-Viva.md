@@ -1,6 +1,6 @@
 ---
 title: 'Viva Sales and what it means for the future of Viva'
-slug: /2022/06/viva-sales-and-what-it-means-for-the-future-of-viva
+slug: /2022/06/18/viva-sales-and-what-it-means-for-the-future-of-viva
 date: '2022-06-18'
 thumb_img_alt: 'Neon sign saying SALE'
 excerpt: >-

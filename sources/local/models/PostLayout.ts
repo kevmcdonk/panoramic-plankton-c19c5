@@ -228,7 +228,7 @@ export const PostLayout: Model = {
       }
     }
   ],
-  urlPath: '/{moment_format(date, "YYYY)}/{moment_format(date, "MM)}/{slug}',
+  urlPath: '/{moment_format(date, "YYYY)}/{moment_format(date, "MM)}/{moment_format(date, "dd)}/{slug}',
   //urlPath: '/2022/09/{slug}',
   thumbnail: 'https://assets.stackbit.com/components/models/thumbnails/default.png',
   fieldGroups: [

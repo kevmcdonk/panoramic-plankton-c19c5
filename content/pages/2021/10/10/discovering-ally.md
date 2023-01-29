@@ -1,7 +1,7 @@
 ---
 title: 'Ally.IO - the next Viva pillar'
 date: '2021-10-10'
-slug: '/2021/10/ally-io-the-next-viva-pillar'
+slug: '/2021/10/10/ally-io-the-next-viva-pillar'
 thumb_img_alt: Neon targets
 excerpt: >-
   A few days ago, Microsoft announced that they were acquiring Ally.IO, an OKR company. Now Microsoft has made quite a few acquisitions over the years but what was interesting about this one was that it announced as the service that would power the next Viva module. It had been heavily hinted that the first four pillars (Connections, Topics, Insights and Learning) would not be the last ones and here it is, the focus for the next release.

@@ -1,6 +1,6 @@
 ---
 title: 'The why of Viva Goals'
-slug: /2022/09/why-of-viva-goals
+slug: /2022/09/13/why-of-viva-goals
 date: '2022-09-13'
 excerpt: >-
   With the general availability of Viva Goals at the start of August 2022, many
