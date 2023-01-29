@@ -90,16 +90,7 @@ sections:
 
 
 
-    actions:
-      - label: See Tutorials
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
+    actions: []
     media:
       url: /images/feature-image-two.svg
       altText: Dope design preview
