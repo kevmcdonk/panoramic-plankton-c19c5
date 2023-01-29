@@ -92,7 +92,7 @@ sections:
 
     actions: []
     media:
-      url: /images/feature-image-two.svg
+      url: /images/IMG_1568 (1).JPG
       altText: Dope design preview
       elementId: ''
       type: ImageBlock
