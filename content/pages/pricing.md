@@ -4,7 +4,7 @@ slug: aboutme
 sections:
   - type: GenericSection
     title:
-      text: Dope Design
+      text: Introduction
       color: text-dark
       type: TitleBlock
     subtitle: Intro
