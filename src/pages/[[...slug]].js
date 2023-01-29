@@ -27,11 +27,12 @@ export async function getStaticPaths() {
 }
 
 export async function getStaticProps({ params }) {
-    generateRssFeed();
-
     const data = await getContent();
     const urlPath = '/' + (params.slug || []).join('/');
     const props = await resolveStaticProps(urlPath, data);
+
+    generateRssFeed();
+
     return { props };
 }
 
