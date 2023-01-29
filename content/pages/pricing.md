@@ -14,7 +14,7 @@ sections:
       git commit, git workflows and collaboration just work.
     actions: []
     media:
-      url: /images/feature-image-two.svg
+      url: /images/ESPSC-Workshop2.jpg
       altText: Dope design preview
       elementId: ''
       type: ImageBlock
