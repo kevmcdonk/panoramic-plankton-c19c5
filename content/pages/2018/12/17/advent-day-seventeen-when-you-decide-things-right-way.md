@@ -9,6 +9,48 @@ author: 'Kevin McDonnell'
 future: true
 tags:
   - Thoughts
+featuredImage:
+  type: ImageBlock
+  url: /images/2018/12/swing.jpg
+  altText: Post Image
+bottomSections:
+  - elementId: ''
+    variant: variant-c
+    colors: colors-a
+    title:
+      '0': R
+      '1': e
+      '2': a
+      '3': d
+      '4': ' '
+      '5': 'n'
+      '6': e
+      '7': x
+      '8': t
+    recentCount: 3
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-12
+          - pb-56
+          - pr-4
+          - pl-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+      actions:
+        justifyContent: center
+    type: RecentPostsSection
+type: PostLayout
 ---
 
 The other day, I was doing a deployment to Azure Functions and I sat there and knowingly clicked right click and publish. I had a CI/CD Pipeline on Azure Dev Ops but I still did a right click publish. Now this isn't the right thing to do. This doesn't check that it works on other machines, this doesn't log it with release comments and it doesn't run automated tests. But I knew this was all ok. I knew it wasn't the completely right thing to do but I was ok with that. Does that make me a bad person?

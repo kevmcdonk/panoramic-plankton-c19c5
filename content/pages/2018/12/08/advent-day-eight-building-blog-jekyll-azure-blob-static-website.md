@@ -3,12 +3,53 @@ layout: PostLayout
 title: An Advent series - Building a blog with Jekyll and Azure Blob Static Website
 slug: '/2018/12/08/advent-day-eight-building-blog-jekyll-azure-blob-static-website'
 date: '2018-12-08 06:00:00'
-content_img_path: 'ekyllAndAzure.png'
 comments: false
 author: 'Kevin McDonnell'
 tags:
   - azure
   - technical
+featuredImage:
+  type: ImageBlock
+  url: /images/2018/12/JekyllAndAzure.png
+  altText: Post Image
+bottomSections:
+  - elementId: ''
+    variant: variant-c
+    colors: colors-a
+    title:
+      '0': R
+      '1': e
+      '2': a
+      '3': d
+      '4': ' '
+      '5': 'n'
+      '6': e
+      '7': x
+      '8': t
+    recentCount: 3
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-12
+          - pb-56
+          - pr-4
+          - pl-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+      actions:
+        justifyContent: center
+    type: RecentPostsSection
+type: PostLayout
 ---
 
 I promised this blog a couple of months back and after a [tweet](https://twitter.com/gregor_suttie/status/1072024346825244672) from [Gregor Suttie](https://twitter.com/gregor_suttie) asking about what people were using if not Wordpress, it seems a good time to write this.

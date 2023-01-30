@@ -3,11 +3,52 @@ layout: PostLayout
 title: Building a bot to link to all your internal bots
 slug: '/2017/05/11/building-a-bot-link-to-internal-bots-2'
 date: '2017-05-11 18:37:19'
-content_img_path: 'images/2017/05/spray.jpg'
 tags:
   - technical
   - bots
   - sharepoint-framework
+featuredImage:
+  type: ImageBlock
+  url: /images/2017/05/spray.jpg
+  altText: Post Image
+bottomSections:
+  - elementId: ''
+    variant: variant-c
+    colors: colors-a
+    title:
+      '0': R
+      '1': e
+      '2': a
+      '3': d
+      '4': ' '
+      '5': 'n'
+      '6': e
+      '7': x
+      '8': t
+    recentCount: 3
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-12
+          - pb-56
+          - pr-4
+          - pl-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+      actions:
+        justifyContent: center
+    type: RecentPostsSection
+type: PostLayout
 ---
 
 Following on from my [last post about building components for your Digital Workplace](https://www.mcd79.com/why-you-should-build-components-and-connectors-for-your-intranet-not-a-gargangtuan-beast/) and not just one big project, I looked in to how you could use bots to help find information across the workplace. The problem is that there are already a plethora of different bots out there and different teams will want to create different bots for their specific scenarios. While internal governance can help this, updating a single bot to deal with every scenario is just not sustainable. Microsoft Teams has addressed this by allowing you to side-load multiple bots and use @ mentions to chat with them. What I was looking for was to use this on a Digital Workplace hub page (aka Intranet homepage).

@@ -3,7 +3,48 @@ layout: PostLayout
 title: Remote working and open plan offices = Productivity vs Collaboration?
 slug: '/2017/06/20/remote-working-and-open-plan-offices-productivity-vs-collaboration-2'
 date: '2017-06-20 22:18:40'
-content_img_path: 'images/2017/06/coffee-shop-working-1.jpg'
+featuredImage:
+  type: ImageBlock
+  url: /images/2017/06/coffee-shop-working-1.jpg
+  altText: Post Image
+bottomSections:
+  - elementId: ''
+    variant: variant-c
+    colors: colors-a
+    title:
+      '0': R
+      '1': e
+      '2': a
+      '3': d
+      '4': ' '
+      '5': 'n'
+      '6': e
+      '7': x
+      '8': t
+    recentCount: 3
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-12
+          - pb-56
+          - pr-4
+          - pl-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+      actions:
+        justifyContent: center
+    type: RecentPostsSection
+type: PostLayout
 ---
 
 ## What does your day look like?

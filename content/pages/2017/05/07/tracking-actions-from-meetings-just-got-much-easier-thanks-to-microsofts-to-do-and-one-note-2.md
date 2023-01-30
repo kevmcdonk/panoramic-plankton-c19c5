@@ -4,6 +4,48 @@ title: Tracking actions from meetings just got much easier thanks to Microsoft's
   and One-Note
 slug: '/2017/05/07/tracking-actions-from-meetings-just-got-much-easier-thanks-to-microsofts-to-do-and-one-note-2'
 date: '2017-05-07 21:07:37'
+featuredImage:
+  type: ImageBlock
+  url: /images/2017/04/Photo-Android-Smartphone-Phone-User-Instagram-634069.jpg
+  altText: Post Image
+bottomSections:
+  - elementId: ''
+    variant: variant-c
+    colors: colors-a
+    title:
+      '0': R
+      '1': e
+      '2': a
+      '3': d
+      '4': ' '
+      '5': 'n'
+      '6': e
+      '7': x
+      '8': t
+    recentCount: 3
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-12
+          - pb-56
+          - pr-4
+          - pl-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+      actions:
+        justifyContent: center
+    type: RecentPostsSection
+type: PostLayout
 ---
 
 I have a confession to make. I don't hate meetings. Most conversations and reading that I have done suggests that I'm in the minority here. Wasted time, lack of follow up and running round in circles are the common problems I hear. So why don't I find these time wasters so bad?

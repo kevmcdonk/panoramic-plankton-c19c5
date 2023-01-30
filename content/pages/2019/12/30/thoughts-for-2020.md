@@ -3,12 +3,53 @@ layout: PostLayout
 title: Some thoughts for 2020
 slug: '/2019/12/30/some-thoughts-for-2020'
 date: '2019-12-30 00:00:00'
-content_img_path: 'images/2019/12/pocket-watch.jpg'
 comments: false
 published: true
 author: 'Kevin McDonnell'
 tags:
   - thoughts
+featuredImage:
+  type: ImageBlock
+  url: /images/2019/12/pocket-watch.jpg
+  altText: Post Image
+bottomSections:
+  - elementId: ''
+    variant: variant-c
+    colors: colors-a
+    title:
+      '0': R
+      '1': e
+      '2': a
+      '3': d
+      '4': ' '
+      '5': 'n'
+      '6': e
+      '7': x
+      '8': t
+    recentCount: 3
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-12
+          - pb-56
+          - pr-4
+          - pl-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+      actions:
+        justifyContent: center
+    type: RecentPostsSection
+type: PostLayout
 ---
 
 Blimey - it’s almost 2020. All those 2020 visions now need to be reviewed and likely refocused. All those visions of the past can be checked and realisation that we still don’t have flying cars or our own jet packs (most of us anyway). So will the world change massively next year? Probably not. It will carry on but those small changes we don’t notice will continue their trickle in to our daily lives. The ease that AI is starting to bring, the emergence of voice interfaces will continue, Internet will be everywhere and the ability to consume what media you want, when and where you want will keep the diversity of content at a high. What about in the world of Microsoft 365?

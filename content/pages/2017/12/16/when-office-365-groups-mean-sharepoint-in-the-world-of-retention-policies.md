@@ -3,11 +3,52 @@ layout: PostLayout
 title: When Office 365 groups actually mean SharePoint in the world of retention policies
 slug: '/2017/12/16/when-office-365-groups-mean-sharepoint-in-the-world-of-retention-policies'
 date: '2017-12-16 21:17:00'
-content_img_path: 'images/2017/12/blog-header.png'
 tags:
   - technical
   - sharepoint
   - office-365
+featuredImage:
+  type: ImageBlock
+  url: /images/2017/12/blog-header.png
+  altText: Post Image
+bottomSections:
+  - elementId: ''
+    variant: variant-c
+    colors: colors-a
+    title:
+      '0': R
+      '1': e
+      '2': a
+      '3': d
+      '4': ' '
+      '5': 'n'
+      '6': e
+      '7': x
+      '8': t
+    recentCount: 3
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-12
+          - pb-56
+          - pr-4
+          - pl-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+      actions:
+        justifyContent: center
+    type: RecentPostsSection
+type: PostLayout
 ---
 
 I hit a very strange issue this week, one of those classic ΓÇ£this part will only take 5 minsΓÇ¥ but three hours later you are still on the same thing. The task was simple - delete all the folders in Shared Documents and replace with a new set. As I had a few sites to do, I wrote a PowerShell script using the ever helpful PnPPowershell. Then it errored on the first one with a message saying I had to delete each subfolder first.

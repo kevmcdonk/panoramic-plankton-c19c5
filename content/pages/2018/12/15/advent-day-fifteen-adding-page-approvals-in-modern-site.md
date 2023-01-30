@@ -3,12 +3,53 @@ layout: PostLayout
 title: An Advent series - Adding page approval to the policies site in Modern SharePoint
 slug: '/2018/12/15/advent-day-fifteen-adding-page-approvals-in-modern-site'
 date: '2018-12-15 06:00:00'
-content_img_path: 'images/2018/12/document.jpg'
 comments: false
 author: 'Kevin McDonnell'
 tags:
   - SharePoint
   - Digital Workplace
+featuredImage:
+  type: ImageBlock
+  url: /images/2018/12/document.jpg
+  altText: Post Image
+bottomSections:
+  - elementId: ''
+    variant: variant-c
+    colors: colors-a
+    title:
+      '0': R
+      '1': e
+      '2': a
+      '3': d
+      '4': ' '
+      '5': 'n'
+      '6': e
+      '7': x
+      '8': t
+    recentCount: 3
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-12
+          - pb-56
+          - pr-4
+          - pl-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+      actions:
+        justifyContent: center
+    type: RecentPostsSection
+type: PostLayout
 ---
 
 Modern SharePoint Page Approvals have really added to the possibilities of modern pages for real life situations, especially where teams want to control the content that is displayed to all. With classic pages, you could use the default publishing or use the clunky SharePoint Designer Workflows but now the Flow backed approvals are far easier.

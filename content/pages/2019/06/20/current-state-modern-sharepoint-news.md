@@ -3,13 +3,54 @@ layout: PostLayout
 title: The current state of targeted news and approvals in Modern SharePoint
 slug: '/2019/06/20/current-state-modern-sharepoint-news'
 date: '2019-06-20 06:00:00'
-content_img_path: 'images/2019/06/darts.jpg'
 comments: false
 published: true
 author: 'Kevin McDonnell'
 tags:
   - Technical
   - SharePoint
+featuredImage:
+  type: ImageBlock
+  url: /images/2019/06/darts.jpg
+  altText: Post Image
+bottomSections:
+  - elementId: ''
+    variant: variant-c
+    colors: colors-a
+    title:
+      '0': R
+      '1': e
+      '2': a
+      '3': d
+      '4': ' '
+      '5': 'n'
+      '6': e
+      '7': x
+      '8': t
+    recentCount: 3
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-12
+          - pb-56
+          - pr-4
+          - pl-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+      actions:
+        justifyContent: center
+    type: RecentPostsSection
+type: PostLayout
 ---
 
 One of the areas that classic SharePoint sites still have over Modern SharePoint is the ability to target audiences. I had heard that this had changed so I decided to do a little investigating. The video below runs through that little trip, with the bumps along the way.

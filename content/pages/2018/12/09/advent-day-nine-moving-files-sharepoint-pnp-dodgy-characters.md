@@ -9,6 +9,48 @@ author: 'Kevin McDonnell'
 tags:
   - sharepoint
   - technical
+featuredImage:
+  type: ImageBlock
+  url: /images/2018/12/files.jpg
+  altText: Post Image
+bottomSections:
+  - elementId: ''
+    variant: variant-c
+    colors: colors-a
+    title:
+      '0': R
+      '1': e
+      '2': a
+      '3': d
+      '4': ' '
+      '5': 'n'
+      '6': e
+      '7': x
+      '8': t
+    recentCount: 3
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-12
+          - pb-56
+          - pr-4
+          - pl-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+      actions:
+        justifyContent: center
+    type: RecentPostsSection
+type: PostLayout
 ---
 
 Have you used [PnP PowerShell](https://github.com/SharePoint/PnP-PowerShell) or many of the other great community initiatives under the [SharePoint PnP banner](https://docs.microsoft.com/en-us/sharepoint/dev/community/community)? Have you ever hit an issue with it? What did you do? Raise an issue? Tweet one of the community? Did you consider trying to fix it?

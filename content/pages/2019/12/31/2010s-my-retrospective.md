@@ -10,6 +10,48 @@ author: 'Kevin McDonnell'
 tags:
   - thoughts
   - agile
+featuredImage:
+  type: ImageBlock
+  url: /images/2019/12/grouped-by-topic.png
+  altText: Post Image
+bottomSections:
+  - elementId: ''
+    variant: variant-c
+    colors: colors-a
+    title:
+      '0': R
+      '1': e
+      '2': a
+      '3': d
+      '4': ' '
+      '5': 'n'
+      '6': e
+      '7': x
+      '8': t
+    recentCount: 3
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-12
+          - pb-56
+          - pr-4
+          - pl-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+      actions:
+        justifyContent: center
+    type: RecentPostsSection
+type: PostLayout
 ---
 
 2010 - that feels a lot longer than ten years ago. I was not long back from Singapore, still adjusting to non-expat life, fighting the ever-worsening commute from Kent up to London, juggling childcare duties with wanting to be out drinking. My twenties had just gone and responsibility had hit in a big way. At home with a 3 year old and at work as I took on more and more running of the whole SharePoint farm for a 30k seat investment bank that was the only company I’d ever worked for. One of the things I was learning more and more about was how to run things in an agile way effectively and my favourite things that have come from almost twenty years of the Agile Manifesto (http://agilemanifesto.org/) is:

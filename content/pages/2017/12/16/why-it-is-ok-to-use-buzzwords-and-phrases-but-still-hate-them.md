@@ -3,11 +3,52 @@ layout: PostLayout
 title: Why it is ok to use buzzwords and phrases but still hate them
 slug: '/2017/12/16/why-it-is-ok-to-use-buzzwords-and-phrases-but-still-hate-them'
 date: '2017-12-16 23:10:16'
-content_img_path: 'images/2017/12/lottery-174132_1920.jpg'
 tags:
   - digital-workplace
   - trends
   - gartner
+featuredImage:
+  type: ImageBlock
+  url: /images/2017/12/lottery-174132_1920.jpg
+  altText: Post Image
+bottomSections:
+  - elementId: ''
+    variant: variant-c
+    colors: colors-a
+    title:
+      '0': R
+      '1': e
+      '2': a
+      '3': d
+      '4': ' '
+      '5': 'n'
+      '6': e
+      '7': x
+      '8': t
+    recentCount: 3
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-12
+          - pb-56
+          - pr-4
+          - pl-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+      actions:
+        justifyContent: center
+    type: RecentPostsSection
+type: PostLayout
 ---
 
 Digital workplace, artificial intelligence, big data, social intranets, the latest phrase out there - all of the key SEO words but do you know what they actually mean? Are you slotting these in to presentations and discussions with staff and clients and assuming they know what you mean by them? Are you hearing others use these in different contexts when meaning very different things?

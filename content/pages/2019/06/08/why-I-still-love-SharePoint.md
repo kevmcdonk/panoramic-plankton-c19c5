@@ -3,13 +3,54 @@ layout: PostLayout
 title: Why I still love SharePoint
 slug: '/2019/06/08/why-I-still-love-SharePoint'
 date: '2019-06-08 06:00:00'
-content_img_path: '019/06/hugs.jpg'
 comments: false
 future: false
 author: 'Kevin McDonnell'
 tags:
   - Thoughts
   - SharePoint
+featuredImage:
+  type: ImageBlock
+  url: /images/2019/06/hugs.jpg
+  altText: Post Image
+bottomSections:
+  - elementId: ''
+    variant: variant-c
+    colors: colors-a
+    title:
+      '0': R
+      '1': e
+      '2': a
+      '3': d
+      '4': ' '
+      '5': 'n'
+      '6': e
+      '7': x
+      '8': t
+    recentCount: 3
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-12
+          - pb-56
+          - pr-4
+          - pl-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+      actions:
+        justifyContent: center
+    type: RecentPostsSection
+type: PostLayout
 ---
 
 It has now been 15 years since I first started working with SharePoint. My journey started with a project to roll out Project Server 2007 at a large financial services company. Naturally, we couldn't just go with a little configuration and so a consultancy with expertise in Project Server and SharePoint was brought in.

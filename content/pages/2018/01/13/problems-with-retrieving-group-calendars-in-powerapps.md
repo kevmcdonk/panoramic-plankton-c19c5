@@ -3,12 +3,53 @@ layout: PostLayout
 title: Problems with retrieving group calendars in PowerApps
 slug: '/2018/01/13/problems-with-retrieving-group-calendars-in-powerapps'
 date: '2018-01-13 11:01:36'
-content_img_path: 'images/2018/01/holzfigur-980784_1920.jpg'
 tags:
   - technical
   - powerapps
   - stuck
   - help
+featuredImage:
+  type: ImageBlock
+  url: /images/2018/01/holzfigur-980784_1920.jpg
+  altText: Post Image
+bottomSections:
+  - elementId: ''
+    variant: variant-c
+    colors: colors-a
+    title:
+      '0': R
+      '1': e
+      '2': a
+      '3': d
+      '4': ' '
+      '5': 'n'
+      '6': e
+      '7': x
+      '8': t
+    recentCount: 3
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-12
+          - pb-56
+          - pr-4
+          - pl-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+      actions:
+        justifyContent: center
+    type: RecentPostsSection
+type: PostLayout
 ---
 
 I had a challenge recently where someone wanted to be able to show an Outlook calendar on a board with everyone's assignments on it. It sounded like a common thing to do but while there was the Journal view, that could only show a day or two at a time - they wanted to see what people were up to for that week. We tried a few different ideas but I kept coming back to PowerApps. I knew you could connect to Outlook so it seemed the right place to start and be able to customise without a full development project needed.

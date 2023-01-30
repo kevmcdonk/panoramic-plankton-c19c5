@@ -3,7 +3,48 @@ layout: PostLayout
 title: Join me (virtually) at the Collab365 conference
 slug: '/2017/10/26/collab365conference'
 date: '2017-10-26 14:34:42'
-content_img_path: 'images/2017/10/8AD98D73-5F58-46EC-B5A5-149C1F85DA40.jpeg'
+featuredImage:
+  type: ImageBlock
+  url: /images/2017/10/8AD98D73-5F58-46EC-B5A5-149C1F85DA40.jpeg
+  altText: Post Image
+bottomSections:
+  - elementId: ''
+    variant: variant-c
+    colors: colors-a
+    title:
+      '0': R
+      '1': e
+      '2': a
+      '3': d
+      '4': ' '
+      '5': 'n'
+      '6': e
+      '7': x
+      '8': t
+    recentCount: 3
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-12
+          - pb-56
+          - pr-4
+          - pl-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+      actions:
+        justifyContent: center
+    type: RecentPostsSection
+type: PostLayout
 ---
 
 Have you heard about the virtual [Collab365 Global Conference 2017](https://events.collab365.community/collab365-global-conference-2017/) that's streaming online November 1st/2nd?

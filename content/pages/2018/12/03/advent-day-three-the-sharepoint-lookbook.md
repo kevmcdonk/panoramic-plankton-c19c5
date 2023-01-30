@@ -3,11 +3,52 @@ layout: PostLayout
 title: An Advent series - the SharePoint Lookbook
 slug: '/2018/12/03/advent-day-three-the-sharepoint-lookbook'
 date: '2018-12-03 06:00:00'
-content_img_path: 'images/2018/12/building-blocks-hero-p-1080.jpeg'
 comments: false
 author: 'Kevin McDonnell'
 tags:
   - digital homeplace
+featuredImage:
+  type: ImageBlock
+  url: /images/2018/12/building-blocks-hero-p-1080.jpeg
+  altText: Post Image
+bottomSections:
+  - elementId: ''
+    variant: variant-c
+    colors: colors-a
+    title:
+      '0': R
+      '1': e
+      '2': a
+      '3': d
+      '4': ' '
+      '5': 'n'
+      '6': e
+      '7': x
+      '8': t
+    recentCount: 3
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-12
+          - pb-56
+          - pr-4
+          - pl-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+      actions:
+        justifyContent: center
+    type: RecentPostsSection
+type: PostLayout
 ---
 
 You can now make SharePoint look beautiful and the SharePoint Lookbook is a great starter to see how and share it in your organisation to break the stigma that surrounds SharePoint.

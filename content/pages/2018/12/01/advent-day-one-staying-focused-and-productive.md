@@ -3,13 +3,54 @@ layout: PostLayout
 title: An Advent series
 slug: '/2018/12/01/advent-day-one-staying-focused-and-productive'
 date: '2018-12-01 09:00:00'
-content_img_path: '018/12/cinnamon-stars.jpg'
 comments: false
 author: 'Kevin McDonnell'
 tags:
   - advent
   - digital homeplace
   - digital workplace
+featuredImage:
+  type: ImageBlock
+  url: /images/2018/12/cinnamon-stars.jpg
+  altText: Post Image
+bottomSections:
+  - elementId: ''
+    variant: variant-c
+    colors: colors-a
+    title:
+      '0': R
+      '1': e
+      '2': a
+      '3': d
+      '4': ' '
+      '5': 'n'
+      '6': e
+      '7': x
+      '8': t
+    recentCount: 3
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-12
+          - pb-56
+          - pr-4
+          - pl-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+      actions:
+        justifyContent: center
+    type: RecentPostsSection
+type: PostLayout
 ---
 
 So here's a challenge for me to finish the year - one blog per day throughout advent! It's a leap of faith but this blog has been neglected for too long so I will clear out some of my backlog and cover thoughts on Digital Workplace, Digital Homeplace and some of the places that Microsoft 365 helps to fill that out.

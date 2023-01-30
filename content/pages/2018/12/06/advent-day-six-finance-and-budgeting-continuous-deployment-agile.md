@@ -3,11 +3,52 @@ layout: PostLayout
 title: An Advent series - Finance and Budgeting in a world of Agile and Continuous Deployment
 slug: '/2018/12/06/advent-day-six-finance-and-budgeting-continuous-deployment-agile'
 date: '2018-12-06 07:00:00'
-content_img_path: 'images/2018/12/puzzle-money.jpg'
 comments: false
 author: 'Kevin McDonnell'
 tags:
   - thoughts
+featuredImage:
+  type: ImageBlock
+  url: /images/2018/12/puzzle-money.jpg
+  altText: Post Image
+bottomSections:
+  - elementId: ''
+    variant: variant-c
+    colors: colors-a
+    title:
+      '0': R
+      '1': e
+      '2': a
+      '3': d
+      '4': ' '
+      '5': 'n'
+      '6': e
+      '7': x
+      '8': t
+    recentCount: 3
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-12
+          - pb-56
+          - pr-4
+          - pl-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+      actions:
+        justifyContent: center
+    type: RecentPostsSection
+type: PostLayout
 ---
 
 All software development should be agile and code delivered through CI/CD. A bold statement but one thought by many people. Agile gives the engagement between all involved stakeholders from the developers through to the user and helps everyone understand what is wanted. CI/CD helps to ensure that you can make small changes with next to zero breakages or impact - note that I did say helps and not just ensures there. These simplifications of the full reality are generally accepted by teams but for mid to large organisations there is a bigger question - how do you budget for an agile project?

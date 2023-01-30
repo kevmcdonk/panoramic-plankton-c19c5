@@ -3,12 +3,53 @@ layout: PostLayout
 title: An Advent series - Get Instagram posts into SharePoint in just 5 mins of configuration
 slug: '/2018/12/05/advent-day-five-using-microsoft-flow-create-social-network-feed-instagram'
 date: '2018-12-05 07:00:00'
-content_img_path: 'images/2018/12/apps.jpg'
 comments: false
 author: 'Kevin McDonnell'
 tags:
   - flow
   - sharepoint
+featuredImage:
+  type: ImageBlock
+  url: /images/2018/12/apps.jpg
+  altText: Post Image
+bottomSections:
+  - elementId: ''
+    variant: variant-c
+    colors: colors-a
+    title:
+      '0': R
+      '1': e
+      '2': a
+      '3': d
+      '4': ' '
+      '5': 'n'
+      '6': e
+      '7': x
+      '8': t
+    recentCount: 3
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-12
+          - pb-56
+          - pr-4
+          - pl-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+      actions:
+        justifyContent: center
+    type: RecentPostsSection
+type: PostLayout
 ---
 
 The modern SharePoint webparts have added connectors to Twitter, Facebook pages, YouTube and many others but there are still some gaps like Instagram - here is how you can use Microsoft Flow to push your content in to SharePoint.

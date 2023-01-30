@@ -3,12 +3,53 @@ layout: PostLayout
 title: Searching Bing with an Azure Function
 slug: '/2017/08/01/searching-bing-with-an-azure-function'
 date: '2017-08-01 23:26:28'
-content_img_path: 'https://upload.wikimedia.org/wikipedia/commons/e/ee/AWI-core-archive_hg.jpg'
 tags:
   - technical
   - sharepoint
   - azure
   - azure-functions
+featuredImage:
+  type: ImageBlock
+  url: https://upload.wikimedia.org/wikipedia/commons/e/ee/AWI-core-archive_hg.jpg
+  altText: Post Image
+bottomSections:
+  - elementId: ''
+    variant: variant-c
+    colors: colors-a
+    title:
+      '0': R
+      '1': e
+      '2': a
+      '3': d
+      '4': ' '
+      '5': 'n'
+      '6': e
+      '7': x
+      '8': t
+    recentCount: 3
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-12
+          - pb-56
+          - pr-4
+          - pl-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+      actions:
+        justifyContent: center
+    type: RecentPostsSection
+type: PostLayout
 ---
 
 I promised in my [last blog](https://www.mcd79.com/fed-up-hunting-down-images-for-your-news-pages-in-sharepoint/) to follow up with some more details on how the image search wed part application has been created and so this is the first part, looking at how the Azure Function was been created. It would have been great to not need the Azure Function and have the web part call various image APIs directly. Unfortunately, the security is a far more important consideration and so an intermediary is needed. You could create a web api but Azure Functions open up a quick and easy way to wrap code securely and with minimal infrastructure (virtual or otherwise) to be set up.

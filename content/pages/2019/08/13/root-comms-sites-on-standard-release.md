@@ -3,13 +3,54 @@ layout: PostLayout
 title: Creating a SharePoint Communications Site on the Office 365 root without Invoke-SPOSiteSwap
 slug: '/2019/08/13/root-comms-sites-on-standard-release'
 date: '2019-08-13 06:00:00'
-content_img_path: 'images/2019/08/treeroot.jpg'
 comments: false
 published: true
 author: 'Kevin McDonnell'
 tags:
   - Bots
   - Technical
+featuredImage:
+  type: ImageBlock
+  url: /images/2019/08/treeroot.jpg
+  altText: Post Image
+bottomSections:
+  - elementId: ''
+    variant: variant-c
+    colors: colors-a
+    title:
+      '0': R
+      '1': e
+      '2': a
+      '3': d
+      '4': ' '
+      '5': 'n'
+      '6': e
+      '7': x
+      '8': t
+    recentCount: 3
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-12
+          - pb-56
+          - pr-4
+          - pl-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+      actions:
+        justifyContent: center
+    type: RecentPostsSection
+type: PostLayout
 ---
 
 Almost since SharePoint Communication Sites were first announced, the clamour has been there to be able to have the root site be a Communications Site. An image driven, good looking site at the natural place for an Office 365 tenancy. Then, at this year's [SharePoint Conference](https://sharepointna.com), Microsoft [announced](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Updates-to-SharePoint-security-administration-and-migration/ba-p/549585) that the PowerShell commandlet [Invoke-SPOSiteSwap](https://docs.microsoft.com/en-us/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) was coming and would allow admins to swap out the current root site with another one (with a few provisos that I'll let you read in detail).

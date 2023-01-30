@@ -3,11 +3,52 @@ layout: PostLayout
 title: An Advent series - Are you learning the right way?
 slug: '/2018/12/07/advent-day-seven-are-you-learning-the-right-way'
 date: '2018-12-07 06:00:00'
-content_img_path: '018/12/laptop.jpg'
 comments: false
 author: 'Kevin McDonnell'
 tags:
   - thoughts
+featuredImage:
+  type: ImageBlock
+  url: /images/2018/12/laptop.jpg
+  altText: Post Image
+bottomSections:
+  - elementId: ''
+    variant: variant-c
+    colors: colors-a
+    title:
+      '0': R
+      '1': e
+      '2': a
+      '3': d
+      '4': ' '
+      '5': 'n'
+      '6': e
+      '7': x
+      '8': t
+    recentCount: 3
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-12
+          - pb-56
+          - pr-4
+          - pl-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+      actions:
+        justifyContent: center
+    type: RecentPostsSection
+type: PostLayout
 ---
 
 How do you learn new things? Do you organise a course and spend a long day in front of a blackboard? Do you prefer to get a book and read to learn or spend your commute listening to audiobooks and podcasts? Or do you prefer to delve in to new ideas yourself and explore through doing?

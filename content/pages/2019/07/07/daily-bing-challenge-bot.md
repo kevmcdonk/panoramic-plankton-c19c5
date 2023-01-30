@@ -3,12 +3,53 @@ layout: PostLayout
 title: The Daily Bing Challenge Bot - Bot Series Part 1
 slug: '/2019/07/07/daily-bing-challenge-bot'
 date: '2019-07-06 06:00:00'
-content_img_path: 'images/2019/07/robots.png'
 comments: false
 published: true
 author: 'Kevin McDonnell'
 tags:
   - Bots
+featuredImage:
+  type: ImageBlock
+  url: /images/2019/07/robots.png
+  altText: Post Image
+bottomSections:
+  - elementId: ''
+    variant: variant-c
+    colors: colors-a
+    title:
+      '0': R
+      '1': e
+      '2': a
+      '3': d
+      '4': ' '
+      '5': 'n'
+      '6': e
+      '7': x
+      '8': t
+    recentCount: 3
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-12
+          - pb-56
+          - pr-4
+          - pl-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+      actions:
+        justifyContent: center
+    type: RecentPostsSection
+type: PostLayout
 ---
 
 Have you ever looked at the daily background on [Bing](https://www.bing.com) or the version on your desktop? Did you stop and wonder where that beautiful landscape or haunting castle is? Perhaps you turned to a colleague and said "I wonder where that is? Where do you think". Then you did the same the next day and perhaps another colleauge joined in. This then turned in to a game amongst the team. Then it got bigger and bigger and bigger and soon the whole company was playing. Suddenly, a little bit of fun was taking up loads of time for the poor person who first came up with the idea.

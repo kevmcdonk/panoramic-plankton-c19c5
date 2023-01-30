@@ -3,12 +3,53 @@ layout: PostLayout
 title: Designing a Bot - Bot Series Part 3
 slug: '/2019/07/10/designing-bot'
 date: '2019-07-11 06:00:00'
-content_img_path: 'images/2019/07/designer.jpg'
 comments: false
 published: true
 author: 'Kevin McDonnell'
 tags:
   - Bots
+featuredImage:
+  type: ImageBlock
+  url: /images/2019/07/designer.jpg
+  altText: Post Image
+bottomSections:
+  - elementId: ''
+    variant: variant-c
+    colors: colors-a
+    title:
+      '0': R
+      '1': e
+      '2': a
+      '3': d
+      '4': ' '
+      '5': 'n'
+      '6': e
+      '7': x
+      '8': t
+    recentCount: 3
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-12
+          - pb-56
+          - pr-4
+          - pl-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+      actions:
+        justifyContent: center
+    type: RecentPostsSection
+type: PostLayout
 ---
 
 Stepping away from the Daily Bing Challenge Bot [overview](/2019/07/06/daily-bing-challenge-bot.html) and [setup](/2019/07/09/installing-daily-bing-challenge-bot-copy.html), this post covers the processes to go through when designing a Bot. This won't be too much of a technical post as it is targetted at the analysis side of the solution but will point towards where you can find out more about the Bot Framework elements themselves.

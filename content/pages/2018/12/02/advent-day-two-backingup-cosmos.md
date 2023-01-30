@@ -3,11 +3,52 @@ layout: PostLayout
 title: An Advent series - Backing up Azure Cosmos DB
 slug: '/2018/12/02/advent-day-two-backingup-cosmos'
 date: '2018-12-02 09:00:00'
-content_img_path: 'images/2018/12/man-backup.jpg'
 comments: false
 author: 'Kevin McDonnell'
 tags:
   - azure
+featuredImage:
+  type: ImageBlock
+  url: /images/2018/12/man-backup.jpg
+  altText: Post Image
+bottomSections:
+  - elementId: ''
+    variant: variant-c
+    colors: colors-a
+    title:
+      '0': R
+      '1': e
+      '2': a
+      '3': d
+      '4': ' '
+      '5': 'n'
+      '6': e
+      '7': x
+      '8': t
+    recentCount: 3
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-12
+          - pb-56
+          - pr-4
+          - pl-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+      actions:
+        justifyContent: center
+    type: RecentPostsSection
+type: PostLayout
 ---
 
 If you have started using Azure Cosmos DB, you may have noticed that the backup story is pretty limited by default. Having recently deleted a test database by mistake and waited three days to get round the support maze to have it restored, it was a good chance to implement a more robust backup strategy.

@@ -5,6 +5,48 @@ title: Why you should build components and connectors for your Intranet, not a g
 slug: '/2017/05/11/why-you-should-build-components-and-connectors-for-your-intranet-not-a-gargangtuan-beast-2'
 date: '2017-05-11 11:15:36'
 content_img_path: 'images/2017/05/resistor-art.jpg'
+featuredImage:
+  type: ImageBlock
+  url: /images/2017/05/resistor-art.jpg
+  altText: Post Image
+bottomSections:
+  - elementId: ''
+    variant: variant-c
+    colors: colors-a
+    title:
+      '0': R
+      '1': e
+      '2': a
+      '3': d
+      '4': ' '
+      '5': 'n'
+      '6': e
+      '7': x
+      '8': t
+    recentCount: 3
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-12
+          - pb-56
+          - pr-4
+          - pl-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+      actions:
+        justifyContent: center
+    type: RecentPostsSection
+type: PostLayout
 ---
 
 At the start of every year, the Nielsen Norman Group releases its [annual report on the best Intranets](https://www.nngroup.com/articles/intranet-design/) for that year but for many, the most interesting part is the analysis they release on the intranets. The part of this that I enjoy most is seeing the average time for creating an Intranet with this year's chart showing an average of 1.4 years. That is 1.4 years duration. Throw in the average team size of 12 people and assuming 8 hour days for 220 days a year, that's almost 30 000 person hours of effort. Just for that one release. For pretty much every company, that is a significant investment.

@@ -8,6 +8,48 @@ comments: false
 author: 'Kevin McDonnell'
 tags:
   - Thoughts
+featuredImage:
+  type: ImageBlock
+  url: /images/2018/12/tie.jpg
+  altText: Post Image
+bottomSections:
+  - elementId: ''
+    variant: variant-c
+    colors: colors-a
+    title:
+      '0': R
+      '1': e
+      '2': a
+      '3': d
+      '4': ' '
+      '5': 'n'
+      '6': e
+      '7': x
+      '8': t
+    recentCount: 3
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-12
+          - pb-56
+          - pr-4
+          - pl-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+      actions:
+        justifyContent: center
+    type: RecentPostsSection
+type: PostLayout
 ---
 
 Have you ever wondered why some people do better at work, especially in large organisations, when they don't appear to be any better than others? They have a glow about them that makes them appear to stand out more and attract more attention. When it comes to promotions, they are ahead of others and mentioned by all levels - sometimes positively, sometimes negatively.

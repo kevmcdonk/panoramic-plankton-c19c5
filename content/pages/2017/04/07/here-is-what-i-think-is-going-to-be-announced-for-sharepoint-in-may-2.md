@@ -7,6 +7,48 @@ tags:
   - sharepoint
   - predictions
   - bots
+featuredImage:
+  type: ImageBlock
+  url: /images/2017/03/GreenEggsAndHam.jfif
+  altText: Post Image
+bottomSections:
+  - elementId: ''
+    variant: variant-c
+    colors: colors-a
+    title:
+      '0': R
+      '1': e
+      '2': a
+      '3': d
+      '4': ' '
+      '5': 'n'
+      '6': e
+      '7': x
+      '8': t
+    recentCount: 3
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-12
+          - pb-56
+          - pr-4
+          - pl-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+      actions:
+        justifyContent: center
+    type: RecentPostsSection
+type: PostLayout
 ---
 
 Around this time last year, there were still a few voices talking about the death of SharePoint and its disappearance as a brand, prompting Microsoft to hold a "Future of SharePoint" event. As someone who has worked with it in various forms since 2004, I was not worried that it would vanish but knew that the branding of things was changing. The name of SharePoint has long been a dirty word for enterprises fed up with difficult to use sites, confusing ways of adding images, badly implemented farms and customisations that argued with each other constantly. However, for me, the Future of SharePoint event changed a lot of that and showed that Microsoft wanted to take a new way forward that was simpler, better looking, mobile focussed and extendable but still keeping that name of SharePoint. The bad name that it had in some places was offset by the large number of people who knew it as the go-to place to find information.

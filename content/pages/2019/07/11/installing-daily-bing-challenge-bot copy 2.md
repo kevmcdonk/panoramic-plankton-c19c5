@@ -3,13 +3,54 @@ layout: PostLayout
 title: Installing the Daily Bing Challenge Bot - Bot Series Part 2
 slug: '/2019/07/11/installing-daily-bing-challenge-bot'
 date: '2019-07-09 06:00:00'
-content_img_path: 'images/2019/07/installing.jpg'
 comments: false
 published: true
 author: 'Kevin McDonnell'
 tags:
   - Bots
   - Technical
+featuredImage:
+  type: ImageBlock
+  url: /images/2019/07/installing.jpg
+  altText: Post Image
+bottomSections:
+  - elementId: ''
+    variant: variant-c
+    colors: colors-a
+    title:
+      '0': R
+      '1': e
+      '2': a
+      '3': d
+      '4': ' '
+      '5': 'n'
+      '6': e
+      '7': x
+      '8': t
+    recentCount: 3
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-12
+          - pb-56
+          - pr-4
+          - pl-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+      actions:
+        justifyContent: center
+    type: RecentPostsSection
+type: PostLayout
 ---
 
 The [previous post](/2019/07/06/daily-bing-challenge-bot.html) in this Bot Series covered what the Daily Bing Challenge Bot is and where it came from so now I will cover how you can use it. This is a technical post and there are quite a few steps at the moment. I may look to create an ARM template and remove the need for Google API at a later date but for now, here is how you can have your very own Daily Bing Challenge Bot.

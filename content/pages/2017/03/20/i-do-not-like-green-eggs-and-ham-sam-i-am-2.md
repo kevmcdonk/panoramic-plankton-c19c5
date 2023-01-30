@@ -3,6 +3,48 @@ layout: PostLayout
 title: I do not like green eggs and ham, Sam I am
 slug: '/2017/03/20/i-do-not-like-green-eggs-and-ham-sam-i-am'
 date: '2017-03-20 19:46:03'
+featuredImage:
+  type: ImageBlock
+  url: /images/2017/03/GreenEggsAndHam.jpg
+  altText: Post Image
+bottomSections:
+  - elementId: ''
+    variant: variant-c
+    colors: colors-a
+    title:
+      '0': R
+      '1': e
+      '2': a
+      '3': d
+      '4': ' '
+      '5': 'n'
+      '6': e
+      '7': x
+      '8': t
+    recentCount: 3
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-12
+          - pb-56
+          - pr-4
+          - pl-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+      actions:
+        justifyContent: center
+    type: RecentPostsSection
+type: PostLayout
 ---
 
 ## "I do not like them in a box. I do not like them with a fox."

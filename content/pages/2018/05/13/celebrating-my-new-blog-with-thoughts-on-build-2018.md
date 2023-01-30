@@ -3,7 +3,48 @@ layout: PostLayout
 title: Celebrating my new blog with thoughts on Build 2018
 slug: '/2018/05/13/celebrating-my-new-blog-with-thoughts-on-build-2018'
 date: '2018-05-13 21:13:01'
-content_img_path: 'images/2018/05/kinect.jpeg'
+featuredImage:
+  type: ImageBlock
+  url: /images/2018/05/kinect.jpeg
+  altText: Post Image
+bottomSections:
+  - elementId: ''
+    variant: variant-c
+    colors: colors-a
+    title:
+      '0': R
+      '1': e
+      '2': a
+      '3': d
+      '4': ' '
+      '5': 'n'
+      '6': e
+      '7': x
+      '8': t
+    recentCount: 3
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-12
+          - pb-56
+          - pr-4
+          - pl-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+      actions:
+        justifyContent: center
+    type: RecentPostsSection
+type: PostLayout
 ---
 
 After a year with a Delve based theme to my blog, I thought that it was time for a change, adding a little more to the template. And what better way to show that off than with my thoughts from the recent Build conference.

@@ -3,11 +3,52 @@ layout: PostLayout
 title: Bored of Lorem Ipsum?
 slug: '/2018/03/20/bored-of-lorum-ipsem'
 date: '2018-03-20 11:53:26'
-content_img_path: 'images/2018/03/Lorem-Ipsum-Cow-Cropped-1.jpg'
 tags:
   - digital workplace
   - content
   - picks
+featuredImage:
+  type: ImageBlock
+  url: /images/2018/03/Lorem-Ipsum-Cow-Cropped-1.jpg
+  altText: Post Image
+bottomSections:
+  - elementId: ''
+    variant: variant-c
+    colors: colors-a
+    title:
+      '0': R
+      '1': e
+      '2': a
+      '3': d
+      '4': ' '
+      '5': 'n'
+      '6': e
+      '7': x
+      '8': t
+    recentCount: 3
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-12
+          - pb-56
+          - pr-4
+          - pl-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+      actions:
+        justifyContent: center
+    type: RecentPostsSection
+type: PostLayout
 ---
 
 When working in the digital workplace and making proposals, there are often times where you need to show some content on your site. The go-to content for this has been Lorem Ipsum for quite some time (over 500 years if this article about the [history of Lorem Ipsum](http://www.loremipsum.de/about_lorem_ipsum.html) can be believed) but what about when you want something a little different?

@@ -9,6 +9,48 @@ tags:
   - sharepoint-framework
   - office-365
   - office-dev
+featuredImage:
+  type: ImageBlock
+  url: /images/2017/12/Collab365-blog.JPG
+  altText: Post Image
+bottomSections:
+  - elementId: ''
+    variant: variant-c
+    colors: colors-a
+    title:
+      '0': R
+      '1': e
+      '2': a
+      '3': d
+      '4': ' '
+      '5': 'n'
+      '6': e
+      '7': x
+      '8': t
+    recentCount: 3
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-12
+          - pb-56
+          - pr-4
+          - pl-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+      actions:
+        justifyContent: center
+    type: RecentPostsSection
+type: PostLayout
 ---
 
 On 2 November, I presented virtually at the [Collab 365 Virtual Conference](https://collab365.conferencehosts.com/confs/global2017) on building an intelligent Office Add-In. I will be publishing the video here shortly after the conference but for anyone interested, below are a few of the useful links and info related to the presentation.

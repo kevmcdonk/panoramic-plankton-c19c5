@@ -3,12 +3,53 @@ layout: PostLayout
 title: What will happen in the world of Office 365 and SharePoint in 2018?
 slug: '/2017/12/26/office-365-sharepoint-2018'
 date: '2017-12-26 22:52:19'
-content_img_path: 'images/2017/12/dart-2109542_1920.jpg'
 tags:
   - predictions
   - trends
   - office-365
   - bots
+featuredImage:
+  type: ImageBlock
+  url: /images/2017/12/dart-2109542_1920.jpg
+  altText: Post Image
+bottomSections:
+  - elementId: ''
+    variant: variant-c
+    colors: colors-a
+    title:
+      '0': R
+      '1': e
+      '2': a
+      '3': d
+      '4': ' '
+      '5': 'n'
+      '6': e
+      '7': x
+      '8': t
+    recentCount: 3
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-12
+          - pb-56
+          - pr-4
+          - pl-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+      actions:
+        justifyContent: center
+    type: RecentPostsSection
+type: PostLayout
 ---
 
 Back in April, I shared [my thoughts](https://www.mcd79.com/here-is-what-i-think-is-going-to-be-announced-for-sharepoint-in-may-2/) on what would happen at the May SharePoint virtual conference and it's fair to say that I missed quite a few things! There's still no story about Publishing Pages (although the hub sites will cover quite a bit more than news will) and there's still not really any standardised bot integration. But there has been a huge amount taking place with SharePoint including my predicted increase in Flow and PowerApps integration and some huge improvements to the development lifecycle of SharePoint Framework later in the year.

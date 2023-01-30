@@ -8,6 +8,48 @@ comments: false
 author: 'Kevin McDonnell'
 tags:
   - sharepoint
+featuredImage:
+  type: ImageBlock
+  url: /images/2018/12/mini.jpg
+  altText: Post Image
+bottomSections:
+  - elementId: ''
+    variant: variant-c
+    colors: colors-a
+    title:
+      '0': R
+      '1': e
+      '2': a
+      '3': d
+      '4': ' '
+      '5': 'n'
+      '6': e
+      '7': x
+      '8': t
+    recentCount: 3
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-12
+          - pb-56
+          - pr-4
+          - pl-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+      actions:
+        justifyContent: center
+    type: RecentPostsSection
+type: PostLayout
 ---
 
 As someone who has been working in technology and development since the early 2000s, there is always a risk of becoming jaded and just seeing new technologies as the same old thing. But there are still things I get excited about. One of those was the advent of the Modern SharePoint push that started with the [Future of SharePoint event](https://www.microsoft.com/en-us/microsoft-365/blog/2016/05/04/the-future-of-sharepoint/) in May 2016, showing that Microsoft could work in a responsive way and make good looking sites with little effort.

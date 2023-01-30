@@ -7,6 +7,48 @@ date: '2017-03-20 23:43:39'
 tags:
   - digital workplace
   - bots
+featuredImage:
+  type: ImageBlock
+  url: /images/2017/03/robot-heart.jpg
+  altText: Post Image
+bottomSections:
+  - elementId: ''
+    variant: variant-c
+    colors: colors-a
+    title:
+      '0': R
+      '1': e
+      '2': a
+      '3': d
+      '4': ' '
+      '5': 'n'
+      '6': e
+      '7': x
+      '8': t
+    recentCount: 3
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-12
+          - pb-56
+          - pr-4
+          - pl-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+      actions:
+        justifyContent: center
+    type: RecentPostsSection
+type: PostLayout
 ---
 
 Microsoft Teams has brought a new way for Office 365 users to collaborate together and stay productive as a team. As I said in my last post, it also brings together multiple areas to connect different services together. One of the more interesting aspects is the integration with the Bot Framework and how this can be used to bring forward what Microsoft has been calling "Conversation as a Service". The change this brings about is the ease of use of different services through natural interaction in a single place. People can chat to a bot in their Teams channel to either update a client in Salesforce or query a set of knowledgebases to answer a question.

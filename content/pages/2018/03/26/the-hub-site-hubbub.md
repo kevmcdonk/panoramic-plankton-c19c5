@@ -3,11 +3,52 @@ layout: PostLayout
 title: The Hub Site Hubbub
 slug: '/2018/03/26/the-hub-site-hubbub'
 date: '2018-03-26 21:29:24'
-content_img_path: 'images/2018/03/telephone-1822040_1920-1.jpg'
 tags:
   - digital workplace
   - sharepoint
   - communications
+featuredImage:
+  type: ImageBlock
+  url: /images/2018/03/telephone-1822040_1920-1.jpg
+  altText: Post Image
+bottomSections:
+  - elementId: ''
+    variant: variant-c
+    colors: colors-a
+    title:
+      '0': R
+      '1': e
+      '2': a
+      '3': d
+      '4': ' '
+      '5': 'n'
+      '6': e
+      '7': x
+      '8': t
+    recentCount: 3
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-12
+          - pb-56
+          - pr-4
+          - pl-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+      actions:
+        justifyContent: center
+    type: RecentPostsSection
+type: PostLayout
 ---
 
 If you follow SharePoint news, you undoubtedly would have heard about Hub Sites. They were announced at Ignite in 2017 and have been causing a ripple of excitement ever since. Why? The big reason many people have often felt that SharePoint has lacked tools as standard that help to build a true Intranet. Rolling up news, connected sites, common navigation - all these things were possible in SharePoint but required a good bit of work to function well. Vendors have filled the gap in the past with some great digital workplace products like [Add-In 365](https://www.addin365.com/), [Valo Intranet](https://www.valointranet.com/) and [Powell 365](https://www.powell-365.com/en/) but many organisations did not want to make the additional investment required.

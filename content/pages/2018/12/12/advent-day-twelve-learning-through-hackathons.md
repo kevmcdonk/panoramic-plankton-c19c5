@@ -8,6 +8,48 @@ comments: false
 author: 'Kevin McDonnell'
 tags:
   - thoughts
+featuredImage:
+  type: ImageBlock
+  url: /images/2018/12/hackathon.jpg
+  altText: Post Image
+bottomSections:
+  - elementId: ''
+    variant: variant-c
+    colors: colors-a
+    title:
+      '0': R
+      '1': e
+      '2': a
+      '3': d
+      '4': ' '
+      '5': 'n'
+      '6': e
+      '7': x
+      '8': t
+    recentCount: 3
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-12
+          - pb-56
+          - pr-4
+          - pl-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+      actions:
+        justifyContent: center
+    type: RecentPostsSection
+type: PostLayout
 ---
 
 After recently writing about ways to learn, today I went along to one of those ways with the UK Tech Communities Hackathon on Bots and AI. This was a chance to hear from some experts on AI and the Bot Framework in the morning and then work in groups of people who haven't met before to try and meet a challenge.

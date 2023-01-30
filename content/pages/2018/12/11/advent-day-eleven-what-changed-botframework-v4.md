@@ -11,6 +11,48 @@ tags:
   - technical
   - azure
   - bots
+featuredImage:
+  type: ImageBlock
+  url: /images/2018/12/light-bulb.jpg
+  altText: Post Image
+bottomSections:
+  - elementId: ''
+    variant: variant-c
+    colors: colors-a
+    title:
+      '0': R
+      '1': e
+      '2': a
+      '3': d
+      '4': ' '
+      '5': 'n'
+      '6': e
+      '7': x
+      '8': t
+    recentCount: 3
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-12
+          - pb-56
+          - pr-4
+          - pl-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+      actions:
+        justifyContent: center
+    type: RecentPostsSection
+type: PostLayout
 ---
 
 I have [talked about using the Bot Framework to create Bots on my blog](/tag/bots) previously and think it's a great solution for creating code that works across multiple channels with minimal extra effort. Microsoft has continued to build on its platform by looking at the earlier complexities while retaining the ability to work across the channels.

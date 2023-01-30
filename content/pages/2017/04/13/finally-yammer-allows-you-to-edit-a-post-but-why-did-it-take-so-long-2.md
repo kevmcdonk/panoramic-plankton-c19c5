@@ -3,6 +3,48 @@ layout: PostLayout
 title: Finally Yammer allows you to edit a post but why did it take so long?
 slug: '/2017/04/13/finally-yammer-allows-you-to-edit-a-post-but-why-did-it-take-so-long-2'
 date: '2017-04-13 21:36:32'
+featuredImage:
+  type: ImageBlock
+  url: /images/2017/04/mistake-968334_1920.jpg
+  altText: Post Image
+bottomSections:
+  - elementId: ''
+    variant: variant-c
+    colors: colors-a
+    title:
+      '0': R
+      '1': e
+      '2': a
+      '3': d
+      '4': ' '
+      '5': 'n'
+      '6': e
+      '7': x
+      '8': t
+    recentCount: 3
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-12
+          - pb-56
+          - pr-4
+          - pl-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+      actions:
+        justifyContent: center
+    type: RecentPostsSection
+type: PostLayout
 ---
 
 ####Some thoughts on platform change and how we should think about it####

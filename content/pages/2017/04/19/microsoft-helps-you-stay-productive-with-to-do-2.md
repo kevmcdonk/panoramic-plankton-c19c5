@@ -6,6 +6,48 @@ date: '2017-04-19 16:10:20'
 tags:
   - digital-workplace
   - stay-productive
+featuredImage:
+  type: ImageBlock
+  url: /images/2017/04/laptop.jpeg
+  altText: Post Image
+bottomSections:
+  - elementId: ''
+    variant: variant-c
+    colors: colors-a
+    title:
+      '0': R
+      '1': e
+      '2': a
+      '3': d
+      '4': ' '
+      '5': 'n'
+      '6': e
+      '7': x
+      '8': t
+    recentCount: 3
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-12
+          - pb-56
+          - pr-4
+          - pl-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+      actions:
+        justifyContent: center
+    type: RecentPostsSection
+type: PostLayout
 ---
 
 Following on from one of my earlier and most popular blog entries about [creating a daily tasks app in PowerApps](https://www.mcd79.com/stay-productive-creating-a-three-daily-tasks-app-in-powerapps-and-flow/), Microsoft today [announced a new To-Do app](https://blogs.office.com/2017/04/19/introducing-microsoft-to-do-now-available-in-preview/).

@@ -3,13 +3,54 @@ layout: PostLayout
 title: Exploring creating SharePoint TeamSites using SiteDesign and the REST API
 slug: '/2018/07/21/exploring-creating-sharepoint-teamsites-using-sitedesign-and-the-rest-api'
 date: '2018-07-21 09:40:40'
-content_img_path: 'images/2018/07/painting-911804_1920.jpg'
 comments: false
 author: 'Kevin McDonnell'
 tags:
   - technical
   - flow
   - sharepoint
+featuredImage:
+  type: ImageBlock
+  url: /images/2018/07/painting-911804_1920.jpg
+  altText: Post Image
+bottomSections:
+  - elementId: ''
+    variant: variant-c
+    colors: colors-a
+    title:
+      '0': R
+      '1': e
+      '2': a
+      '3': d
+      '4': ' '
+      '5': 'n'
+      '6': e
+      '7': x
+      '8': t
+    recentCount: 3
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-12
+          - pb-56
+          - pr-4
+          - pl-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+      actions:
+        justifyContent: center
+    type: RecentPostsSection
+type: PostLayout
 ---
 
 I have been recently exploring creating sites with Flow off the back of a list. I'd done this previously with Azure Functions very successfully but wanted to see if Site Scripts and Site Designs could remove that extra step. TLDR? Yes you can!

@@ -3,12 +3,53 @@ layout: PostLayout
 title: Fed up hunting down images for your news pages in SharePoint?
 slug: '/2017/07/16/fed-up-hunting-down-images-for-your-news-pages-in-sharepoint'
 date: '2017-07-16 15:50:10'
-content_img_path: 'images/2017/07/megaphone.jpg'
 tags:
   - technical
   - stay-productive
   - sharepoint
   - sharepoint-framework
+featuredImage:
+  type: ImageBlock
+  url: /images/2017/07/megaphone.jpg
+  altText: Post Image
+bottomSections:
+  - elementId: ''
+    variant: variant-c
+    colors: colors-a
+    title:
+      '0': R
+      '1': e
+      '2': a
+      '3': d
+      '4': ' '
+      '5': 'n'
+      '6': e
+      '7': x
+      '8': t
+    recentCount: 3
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-12
+          - pb-56
+          - pr-4
+          - pl-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+      actions:
+        justifyContent: center
+    type: RecentPostsSection
+type: PostLayout
 ---
 
 This may be a shock to many people but SharePoint is starting to get beautiful. After many years of large lists on a page, never ending documents or acres of white space, SharePoint is focussing more on images. Not just that but it is now easier to upload an image without having to move between different libraries as you often did before.
