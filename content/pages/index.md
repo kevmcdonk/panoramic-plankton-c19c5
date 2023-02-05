@@ -92,6 +92,7 @@ sections:
       - content/pages/blog/blog-post-title-1.md
       - content/pages/blog/blog-post-title-2.md
       - content/pages/blog/blog-post-title-3.md
+      - content/pages/2022/04/Transforming-organisations-with-Viva.md
     showThumbnail: true
     showExcerpt: true
     showDate: true
