@@ -89,7 +89,6 @@ sections:
       type: TitleBlock
     subtitle: null
     posts:
-      - content/pages/blog/blog-post-title-3.md
       - content/pages/2022/04/Transforming-organisations-with-Viva.md
     showThumbnail: true
     showExcerpt: true
