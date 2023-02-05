@@ -1,18 +1,26 @@
 ---
-title: 'Chatting is hard but so so worth it'
+title: Chatting is hard but so so worth it
 slug: /2023/02/05/Chatting-is-hard-but-so-so-worth-it
 date: '2023-02-05'
-thumb_img_alt: 'Friends in a silhouette'
+thumb_img_alt: Friends in a silhouette
 excerpt: >-
-  The new Microsoft Syntex Pay As You Go model is currently in public preview at no cost so this was a great time to set it up and try out the receipt model to process a few receipts that have sat around since the summer holidays.
+  Back in 2020, I wrote a post titled "You know what, it's damn hard chatting to
+  random people" encouraging people to chat more to others when they visit user
+  groups and conferences. I was reworking my blog and came back to this post.
+  It's now two years since Viva was released and that has truly changed my
+  career. How? Through the people I chatted to.
 hide_header: false
 seo:
-  title: 'Chatting is hard but so so worth it'
-  description: 'The new Microsoft Syntex Pay As You Go model is currently in public preview at no cost so this was a great time to set it up and try out the receipt model to process a few receipts that have sat around since the summer holidays.'
+  title: Chatting is hard but so so worth it
+  description: >-
+    The new Microsoft Syntex Pay As You Go model is currently in public preview
+    at no cost so this was a great time to set it up and try out the receipt
+    model to process a few receipts that have sat around since the summer
+    holidays.
   robots: []
   extra: []
 layout: PostLayout
-subtitle: 'Trying out the Syntex PAYG model in public preview'
+subtitle: Trying out the Syntex PAYG model in public preview
 featuredImage:
   type: ImageBlock
   url: /images/2023/Receipt.jpg
@@ -21,14 +29,31 @@ bottomSections:
   - elementId: ''
     variant: variant-c
     colors: colors-a
-    title: Read next
+    title:
+      '0': R
+      '1': e
+      '2': a
+      '3': d
+      '4': ' '
+      '5': 'n'
+      '6': e
+      '7': x
+      '8': t
     recentCount: 3
     styles:
       self:
         height: auto
         width: wide
-        margin: ['mt-0', 'mb-0', 'ml-0', 'mr-0']
-        padding: ['pt-12', 'pb-56', 'pr-4', 'pl-4']
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-12
+          - pb-56
+          - pr-4
+          - pl-4
         justifyContent: center
       title:
         textAlign: center
