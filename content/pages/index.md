@@ -79,6 +79,37 @@ sections:
           - pb-16
           - pr-16
         justifyContent: center
+  - type: FeaturedPostsSection
+    title:
+      text: Featured posts
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+      type: TitleBlock
+    subtitle: null
+    posts:
+      - content/pages/blog/blog-post-title-1.md
+      - content/pages/blog/blog-post-title-2.md
+      - content/pages/blog/blog-post-title-3.md
+    showThumbnail: true
+    showExcerpt: true
+    showDate: true
+    showAuthor: true
+    actions: []
+    badge: null
+    elementId: ''
+    variant: three-col-grid
+    colors: bg-light-fg-dark
+    backgroundImage: null
+    styles:
+      self:
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
+        justifyContent: center
   - type: RecentPostsSection
     title:
       text: Recent posts
