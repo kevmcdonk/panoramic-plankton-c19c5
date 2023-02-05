@@ -62,7 +62,16 @@ sections:
     showExcerpt: true
     showDate: true
     showAuthor: true
-    actions: []
+    actions:
+      - type: Button
+        label: Get started
+        altText: ''
+        url: /blog
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     badge: null
     elementId: ''
     variant: three-col-grid
