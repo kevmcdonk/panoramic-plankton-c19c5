@@ -48,6 +48,38 @@ sections:
       styles:
         self:
           borderRadius: x-large
+  - type: RecentPostsSection
+    title:
+      text: Recent posts
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+      type: TitleBlock
+    subtitle: null
+    recentCount: 3
+    showThumbnail: true
+    showExcerpt: true
+    showDate: true
+    showAuthor: true
+    actions:
+      - type: Button
+        label: View all posts
+        altText: View all posts
+        url: /blog
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+    badge: null
+    elementId: ''
+    variant: three-col-grid
+    colors: bg-light-fg-dark
+    backgroundImage: null
+    styles:
+      self:
+        justifyContent: center
   - type: FeaturedPostsSection
     title:
       text: Featured posts
@@ -58,9 +90,15 @@ sections:
       type: TitleBlock
     subtitle: null
     posts:
-      - content/pages/blog/blog-post-title-1.md
-      - content/pages/blog/blog-post-title-2.md
-      - content/pages/blog/blog-post-title-3.md
+      - content/pages/2022/04/Transforming-organisations-with-Viva.md
+      - content/pages/2022/09/The-why-of-Viva-Goals.md
+      - >-
+        content/pages/2021/07/09/toxic-male-behaviour-we-can-and-must-do-better.md
+      - content/pages/2021/07/17/Samples-for-Microsoft-Search.md
+      - content/pages/2020/08/12/Knowledge-Management-Series.md
+      - >-
+        content/pages/2020/01/03/You-know-what-its-damn-hard-chatting-to-random-people
+        copy.md
     showThumbnail: true
     showExcerpt: true
     showDate: true
@@ -78,29 +116,6 @@ sections:
           - pl-16
           - pb-16
           - pr-16
-        justifyContent: center
-  - type: RecentPostsSection
-    title:
-      text: Recent posts
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
-    subtitle: null
-    recentCount: 3
-    showThumbnail: true
-    showExcerpt: true
-    showDate: true
-    showAuthor: true
-    actions: []
-    badge: null
-    elementId: ''
-    variant: three-col-grid
-    colors: bg-light-fg-dark
-    backgroundImage: null
-    styles:
-      self:
         justifyContent: center
 seo:
   metaTitle: Home - Demo site
