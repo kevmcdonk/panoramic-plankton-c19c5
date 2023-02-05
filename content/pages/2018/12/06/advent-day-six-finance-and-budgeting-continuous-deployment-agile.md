@@ -4,7 +4,6 @@ title: An Advent series - Finance and Budgeting in a world of Agile and Continuo
 slug: '/2018/12/06/advent-day-six-finance-and-budgeting-continuous-deployment-agile'
 date: '2018-12-06 07:00:00'
 comments: false
-author: 'Kevin McDonnell'
 tags:
   - thoughts
 featuredImage:

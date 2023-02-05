@@ -4,7 +4,6 @@ title: An Advent series - Are you learning the right way?
 slug: '/2018/12/07/advent-day-seven-are-you-learning-the-right-way'
 date: '2018-12-07 06:00:00'
 comments: false
-author: 'Kevin McDonnell'
 tags:
   - thoughts
 featuredImage:

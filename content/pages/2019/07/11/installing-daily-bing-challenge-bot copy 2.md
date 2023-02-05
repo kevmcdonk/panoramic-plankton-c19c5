@@ -5,7 +5,6 @@ slug: '/2019/07/11/installing-daily-bing-challenge-bot'
 date: '2019-07-09 06:00:00'
 comments: false
 published: true
-author: 'Kevin McDonnell'
 tags:
   - Bots
   - Technical

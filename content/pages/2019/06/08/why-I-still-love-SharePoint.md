@@ -5,7 +5,6 @@ slug: '/2019/06/08/why-I-still-love-SharePoint'
 date: '2019-06-08 06:00:00'
 comments: false
 future: false
-author: 'Kevin McDonnell'
 tags:
   - Thoughts
   - SharePoint

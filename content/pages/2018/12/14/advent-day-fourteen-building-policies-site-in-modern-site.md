@@ -5,7 +5,6 @@ slug: '/2018/12/14/advent-day-fourteen-building-policies-site-in-modern-site'
 date: '2018-12-14 06:00:00'
 content_img_path: 'images/2018/12/book.jpeg'
 comments: false
-author: 'Kevin McDonnell'
 tags:
   - SharePoint
   - Digital Workplace

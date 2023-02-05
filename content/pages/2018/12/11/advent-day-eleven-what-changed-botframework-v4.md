@@ -5,7 +5,6 @@ slug: '/2018/12/11/advent-day-eleven-what-changed-botframework-v4'
 date: '2018-12-11 06:00:00'
 content_img_path: 'images/2018/12/light-bulb.jpg'
 comments: false
-author: 'Kevin McDonnell'
 tags:
   - digital workplace
   - technical

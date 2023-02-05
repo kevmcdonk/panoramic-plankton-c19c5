@@ -30,7 +30,6 @@ bottomSections:
       actions:
         justifyContent: center
     type: RecentPostsSection
-author: 'Kevin McDonnell'
 tags:
   - Thoughts
 type: PostLayout

@@ -5,7 +5,6 @@ date: '2020-04-19 13:00:00'
 content_img_path: '2020/04/womanbitingpencil.jpg'
 comments: false
 published: true
-author: 'Kevin McDonnell'
 featuredImage:
   type: ImageBlock
   url: /2020/04/womanbitingpencil.jpg

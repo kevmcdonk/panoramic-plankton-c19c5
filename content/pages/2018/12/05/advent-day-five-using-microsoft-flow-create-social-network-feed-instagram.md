@@ -4,7 +4,6 @@ title: An Advent series - Get Instagram posts into SharePoint in just 5 mins of 
 slug: '/2018/12/05/advent-day-five-using-microsoft-flow-create-social-network-feed-instagram'
 date: '2018-12-05 07:00:00'
 comments: false
-author: 'Kevin McDonnell'
 tags:
   - flow
   - sharepoint

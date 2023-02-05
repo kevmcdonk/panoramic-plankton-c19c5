@@ -6,7 +6,6 @@ date: '2019-12-31 00:00:00'
 content_img_path: 'images/2019/12/grouped-by-topic.png'
 comments: false
 published: true
-author: 'Kevin McDonnell'
 tags:
   - thoughts
   - agile

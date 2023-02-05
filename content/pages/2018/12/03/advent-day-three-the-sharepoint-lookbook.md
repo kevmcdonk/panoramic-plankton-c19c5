@@ -4,7 +4,6 @@ title: An Advent series - the SharePoint Lookbook
 slug: '/2018/12/03/advent-day-three-the-sharepoint-lookbook'
 date: '2018-12-03 06:00:00'
 comments: false
-author: 'Kevin McDonnell'
 tags:
   - digital homeplace
 featuredImage:

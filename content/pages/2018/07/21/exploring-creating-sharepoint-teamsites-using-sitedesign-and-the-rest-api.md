@@ -4,7 +4,6 @@ title: Exploring creating SharePoint TeamSites using SiteDesign and the REST API
 slug: '/2018/07/21/exploring-creating-sharepoint-teamsites-using-sitedesign-and-the-rest-api'
 date: '2018-07-21 09:40:40'
 comments: false
-author: 'Kevin McDonnell'
 tags:
   - technical
   - flow

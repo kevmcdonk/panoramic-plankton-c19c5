@@ -4,7 +4,6 @@ title: An Advent series - Building a blog with Jekyll and Azure Blob Static Webs
 slug: '/2018/12/08/advent-day-eight-building-blog-jekyll-azure-blob-static-website'
 date: '2018-12-08 06:00:00'
 comments: false
-author: 'Kevin McDonnell'
 tags:
   - azure
   - technical

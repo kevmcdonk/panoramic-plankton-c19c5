@@ -5,7 +5,6 @@ slug: '/2019/08/13/root-comms-sites-on-standard-release'
 date: '2019-08-13 06:00:00'
 comments: false
 published: true
-author: 'Kevin McDonnell'
 tags:
   - Bots
   - Technical

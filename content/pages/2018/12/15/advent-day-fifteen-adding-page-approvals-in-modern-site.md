@@ -4,7 +4,6 @@ title: An Advent series - Adding page approval to the policies site in Modern Sh
 slug: '/2018/12/15/advent-day-fifteen-adding-page-approvals-in-modern-site'
 date: '2018-12-15 06:00:00'
 comments: false
-author: 'Kevin McDonnell'
 tags:
   - SharePoint
   - Digital Workplace

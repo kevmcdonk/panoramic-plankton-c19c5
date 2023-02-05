@@ -1,10 +1,8 @@
 ---
-layout: PostLayout
 title: Modern Serverless Development with Azure - an application journey
 slug: '/2018/10/10/modern-serverless-development-with-azure'
 date: '2018-10-10 17:00:00'
 comments: false
-author: 'Kevin McDonnell'
 tags:
   - technical
   - azure

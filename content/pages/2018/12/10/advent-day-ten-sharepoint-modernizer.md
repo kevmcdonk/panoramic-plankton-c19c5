@@ -5,7 +5,6 @@ slug: '/2018/12/10/advent-day-ten-sharepoint-modernizer'
 date: '2018-12-10 06:00:00'
 content_img_path: 'images/2018/12/mini.jpg'
 comments: false
-author: 'Kevin McDonnell'
 tags:
   - sharepoint
 featuredImage:

@@ -5,7 +5,6 @@ slug: '/2018/12/16/advent-day-sixteen-custom-policies-spfx-webpart'
 date: '2018-12-16 06:00:00'
 content_img_path: 'images/2018/12/telescope.jpg'
 comments: false
-author: 'Kevin McDonnell'
 tags:
   - SharePoint
   - Digital Workplace

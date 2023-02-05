@@ -4,7 +4,6 @@ title: An Advent series - building a SharePoint modern page with PnP PowerShell 
 slug: '/2018/12/04/advent-day-four-building-sharepoint-modern-pages-with-pnp-powershell-setting-banner'
 date: '2018-12-04 06:00:00'
 comments: false
-author: 'Kevin McDonnell'
 tags:
   - digital homeplace
 featuredImage:

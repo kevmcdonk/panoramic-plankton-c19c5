@@ -5,7 +5,6 @@ slug: '/2018/12/18/advent-day-eighteen-the-power-of-confidence'
 date: '2018-12-18 06:00:00'
 content_img_path: 'images/2018/12/tie.jpg'
 comments: false
-author: 'Kevin McDonnell'
 tags:
   - Thoughts
 featuredImage:

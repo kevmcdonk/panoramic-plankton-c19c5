@@ -1,10 +1,8 @@
 ---
-layout: PostLayout
 title: An Advent series
 slug: '/2018/12/01/advent-day-one-staying-focused-and-productive'
 date: '2018-12-01 09:00:00'
 comments: false
-author: 'Kevin McDonnell'
 tags:
   - advent
   - digital homeplace

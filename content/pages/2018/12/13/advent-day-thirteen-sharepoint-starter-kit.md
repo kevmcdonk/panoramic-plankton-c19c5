@@ -5,7 +5,6 @@ slug: '/2018/12/13/advent-day-thirteen-sharepoint-starter-kit'
 date: '2018-12-13 06:00:00'
 content_img_path: 'images/2018/12/space-shuttle.jpg'
 comments: false
-author: 'Kevin McDonnell'
 tags:
   - SharePoint
   - Digital Workplace

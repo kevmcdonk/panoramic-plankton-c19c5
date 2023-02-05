@@ -5,7 +5,6 @@ slug: '/2019/12/30/some-thoughts-for-2020'
 date: '2019-12-30 00:00:00'
 comments: false
 published: true
-author: 'Kevin McDonnell'
 tags:
   - thoughts
 featuredImage:

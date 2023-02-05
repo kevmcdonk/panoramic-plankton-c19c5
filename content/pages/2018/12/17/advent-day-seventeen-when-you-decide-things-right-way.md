@@ -5,7 +5,6 @@ slug: '/2018/12/17/advent-day-seventeen-when-you-decide-things-right-way'
 date: '2018-12-17 06:00:00'
 content_img_path: 'images/2018/12/swing.jpg'
 comments: false
-author: 'Kevin McDonnell'
 future: true
 tags:
   - Thoughts

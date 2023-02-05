@@ -5,7 +5,6 @@ date: '2020-08-12 20:00:00'
 content_img_path: 'images/2020/08/books.jpg'
 comments: false
 published: false
-author: 'Kevin McDonnell'
 featuredImage:
   type: ImageBlock
   url: /images/2020/08/books.jpg

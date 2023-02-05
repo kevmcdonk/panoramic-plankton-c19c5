@@ -5,7 +5,6 @@ slug: '/2019/07/07/daily-bing-challenge-bot'
 date: '2019-07-06 06:00:00'
 comments: false
 published: true
-author: 'Kevin McDonnell'
 tags:
   - Bots
 featuredImage:

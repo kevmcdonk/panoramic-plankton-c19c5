@@ -6,7 +6,6 @@ date: '2020-03-05 00:00:00'
 content_img_path: 'images/2020/03/etiquette.jpg'
 comments: false
 published: true
-author: 'Kevin McDonnell'
 featuredImage:
   type: ImageBlock
   url: /images/2020/03/etiquette.jpg

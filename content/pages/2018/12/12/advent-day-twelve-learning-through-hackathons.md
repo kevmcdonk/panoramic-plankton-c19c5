@@ -5,7 +5,6 @@ slug: '/2018/12/12/advent-day-twelve-learning-through-hackathons'
 date: '2018-12-12 06:00:00'
 content_img_path: 'images/2018/12/hackathon.jpg'
 comments: false
-author: 'Kevin McDonnell'
 tags:
   - thoughts
 featuredImage:

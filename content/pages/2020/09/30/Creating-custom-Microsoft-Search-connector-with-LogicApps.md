@@ -4,7 +4,6 @@ slug: /2020/09/30/Creating-custom-Microsoft-Search-connector-with-LogicApps
 date: '2020-09-30 18:00:00'
 comments: false
 published: true
-author: 'Kevin McDonnell'
 featuredImage:
   type: ImageBlock
   url: /images/2020/09/connectors.jpg

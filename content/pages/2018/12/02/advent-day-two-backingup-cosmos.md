@@ -4,7 +4,6 @@ title: An Advent series - Backing up Azure Cosmos DB
 slug: '/2018/12/02/advent-day-two-backingup-cosmos'
 date: '2018-12-02 09:00:00'
 comments: false
-author: 'Kevin McDonnell'
 tags:
   - azure
 featuredImage:

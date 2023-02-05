@@ -5,7 +5,6 @@ date: '2020-09-17 15:00:00'
 content_img_path: 'images/2020/09/leaves.jpg'
 comments: false
 published: true
-author: 'Kevin McDonnell'
 featuredImage:
   type: ImageBlock
   url: /images/2020/09/leaves.jpg

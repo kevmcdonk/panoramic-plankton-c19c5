@@ -5,7 +5,6 @@ slug: '/2018/12/10/advent-day-ten-pnp-powershell-file-move'
 date: '2018-12-09 06:00:00'
 content_img_path: 'images/2018/12/files.jpg'
 comments: false
-author: 'Kevin McDonnell'
 tags:
   - sharepoint
   - technical

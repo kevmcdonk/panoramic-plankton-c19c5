@@ -5,7 +5,6 @@ slug: '/2019/06/20/current-state-modern-sharepoint-news'
 date: '2019-06-20 06:00:00'
 comments: false
 published: true
-author: 'Kevin McDonnell'
 tags:
   - Technical
   - SharePoint

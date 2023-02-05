@@ -5,7 +5,6 @@ slug: '/2019/07/10/designing-bot'
 date: '2019-07-11 06:00:00'
 comments: false
 published: true
-author: 'Kevin McDonnell'
 tags:
   - Bots
 featuredImage:
