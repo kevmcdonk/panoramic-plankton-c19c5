@@ -1,7 +1,6 @@
 ---
-layout: PostLayout
 title: Knowledge Management Series - Introduction to Viva Topics
-slug: /2021/02/knowledge-management-series-introduction-to-viva-topics
+slug: /2021/02/06/knowledge-management-series-introduction-to-viva-topics
 date: '2021-02-06 10:00:00'
 content_img_path: 'images/2021/02/SortingRecords.jpg'
 excerpt: >-

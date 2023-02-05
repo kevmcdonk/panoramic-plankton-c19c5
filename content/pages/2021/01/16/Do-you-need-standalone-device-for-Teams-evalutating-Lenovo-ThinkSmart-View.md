@@ -1,7 +1,7 @@
 ---
 layout: PostLayout
 title: Do you need a standalone device for Teams? - Evaluating the Lenovo ThinkSmart View
-slug: /2021/01/do-you-need-standalone-device-for-teams-evalutating-lenovo-thinksmart-view
+slug: /2021/01/16/do-you-need-standalone-device-for-teams-evalutating-lenovo-thinksmart-view
 date: '2021-01-16 08:00:00'
 content_img_path: 'images/2021/01/LenovoThinkSmartView.jpg'
 excerpt: >-

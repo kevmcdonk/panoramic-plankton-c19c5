@@ -1,6 +1,6 @@
 ---
 title: 'Reflections on Scottish Summit 2022'
-slug: /2022/06/reflections-on-scottish-summit-2022
+slug: /2022/06/12/reflections-on-scottish-summit-2022
 date: '2022-06-12'
 thumb_img_alt: 'Connell McGinley giving the keynote session at Scottish Summit 2022 saying we rise by uplifting others'
 excerpt: >-
