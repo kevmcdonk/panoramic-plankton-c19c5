@@ -90,6 +90,7 @@ sections:
     subtitle: null
     posts:
       - content/pages/2022/04/Transforming-organisations-with-Viva.md
+      - content/pages/2022/09/The-why-of-Viva-Goals.md
     showThumbnail: true
     showExcerpt: true
     showDate: true
