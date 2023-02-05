@@ -93,6 +93,7 @@ sections:
       - content/pages/2022/09/The-why-of-Viva-Goals.md
       - >-
         content/pages/2021/07/09/toxic-male-behaviour-we-can-and-must-do-better.md
+      - content/pages/2021/07/17/Samples-for-Microsoft-Search.md
     showThumbnail: true
     showExcerpt: true
     showDate: true
