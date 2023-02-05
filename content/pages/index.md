@@ -94,6 +94,7 @@ sections:
       - >-
         content/pages/2021/07/09/toxic-male-behaviour-we-can-and-must-do-better.md
       - content/pages/2021/07/17/Samples-for-Microsoft-Search.md
+      - content/pages/2020/08/12/Knowledge-Management-Series.md
     showThumbnail: true
     showExcerpt: true
     showDate: true
