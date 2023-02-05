@@ -23,7 +23,7 @@ layout: PostLayout
 subtitle: Trying out the Syntex PAYG model in public preview
 featuredImage:
   type: ImageBlock
-  url: /images/2023/Receipt.jpg
+  url: /images/chang-duong-Sj0iMtq_Z4w-unsplash.jpg
   altText: Post Image
 bottomSections:
   - elementId: ''
