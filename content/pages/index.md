@@ -10,14 +10,15 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: >-
-      From dev to PM, SharePoint farm owner to analyst, Kevin has done it all
-      and has the hair (or lack of) to prove it. Having started in the world of
-      Financial Services with delivering solutions on Microsoft technologies to
-      help staff collaborate and be more productive, Kevin jumped the fence a
-      few years ago to the consultancy side. He has always loved to share and is
-      a Microsoft MVP in Microsoft 365 Apps and Services, Viva Explorer and
-      co-hosts the weekly modern workplace podcast GreyHatBeardPrincess in
-      between his day job as a Head of Practice for Modern Workplace at CPS.
+      Inspired by those in the community that have gone before me, I try to
+      share what I learn by looking at what the services from Microsoft can
+      offer, understanding challenges people have and bringing those two things
+      together. Having learned from 13 years in Financial Services, I moved into
+      the world of consulting, currently acting as Group Manager - Modern
+      Workplace at Avanade.I am lucky enough to have been awarded as a Microsoft
+      MVP in Microsoft 365 Apps and Services, participate as a Viva Explorer and
+      co-host the modern workplace podcast GreyHatBeardPrincess as well as
+      blogging and sharing videos.
     actions: []
     elementId: homepage-hero
     colors: bg-light-fg-dark
