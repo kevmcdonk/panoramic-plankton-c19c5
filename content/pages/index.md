@@ -91,6 +91,8 @@ sections:
     posts:
       - content/pages/2022/04/Transforming-organisations-with-Viva.md
       - content/pages/2022/09/The-why-of-Viva-Goals.md
+      - >-
+        content/pages/2021/07/09/toxic-male-behaviour-we-can-and-must-do-better.md
     showThumbnail: true
     showExcerpt: true
     showDate: true
