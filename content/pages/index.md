@@ -65,7 +65,7 @@ sections:
     actions:
       - type: Button
         label: View all posts
-        altText: ''
+        altText: View all posts
         url: /blog
         showIcon: false
         icon: arrowRight
