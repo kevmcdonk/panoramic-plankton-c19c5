@@ -64,7 +64,7 @@ sections:
     showAuthor: true
     actions:
       - type: Button
-        label: Get started
+        label: View all posts
         altText: ''
         url: /blog
         showIcon: false
