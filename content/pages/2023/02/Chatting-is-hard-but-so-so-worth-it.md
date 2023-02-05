@@ -13,10 +13,11 @@ hide_header: false
 seo:
   title: Chatting is hard but so so worth it
   description: >-
-    The new Microsoft Syntex Pay As You Go model is currently in public preview
-    at no cost so this was a great time to set it up and try out the receipt
-    model to process a few receipts that have sat around since the summer
-    holidays.
+    Back in 2020, I wrote a post titled "You know what, it's damn hard chatting to
+  random people" encouraging people to chat more to others when they visit user
+  groups and conferences. I was reworking my blog and came back to this post.
+  It's now two years since Viva was released and that has truly changed my
+  career. How? Through the people I chatted to.
   robots: []
   extra: []
 layout: PostLayout
@@ -71,7 +72,7 @@ Through chatting to others in the community, I got to speak with Aaron Rendell w
 
 Two years on from Viva being announced and I now think of so many of those Viva Explorers as friends. If I hadn't made that effort to chat to more people at events, these things wouldn't have happened. At the last ESPC, I made sure that I chatted to more people and not just MVPs but as many people as possible who attended. I got the chance to meet the lovely (and very tall) Dan Toft and it has been so great since then to see him getting more and more engaged with the community. Anouck Fierens was another lovely person I had the chance to meet and I saw that last week she stood up and spoke at the Belgium Information Workers User Group for the first time. Seeing these lovely people evolve in the community and hopefully continue their journey is one of the things I love about it all.
 
-For family reasons, I won't be at any conferences for the first half of this year and will truly miss it. However, I'm still speaking with so many people (I do enjoy my Whats Apps with Aaron, Peter Rising, the Viva Explorers and the beautiful badgers as well as catching up with the Avanade MVPs in the office) and those connections I made from just chatting to people means so much to me.
+For family reasons, I won't be at any conferences for the first half of this year and will truly miss it. However, I'm still speaking with so many people (I do enjoy my Whats Apps with Aaron, Peter Rising, the GreyHatBeardPrincess lovelies, the Viva Explorers and the beautiful badgers as well as catching up with the Avanade MVPs in the office) and those connections I made from just chatting to people genuinely means so much to me.
 
 So get along to events, do chat to people and please do say hello to me if you see me somewhere.
 
