@@ -14,10 +14,10 @@ seo:
   title: Chatting is hard but so so worth it
   description: >-
     Back in 2020, I wrote a post titled "You know what, it's damn hard chatting to
-  random people" encouraging people to chat more to others when they visit user
-  groups and conferences. I was reworking my blog and came back to this post.
-  It's now two years since Viva was released and that has truly changed my
-  career. How? Through the people I chatted to.
+    random people" encouraging people to chat more to others when they visit user
+    groups and conferences. I was reworking my blog and came back to this post.
+    It's now two years since Viva was released and that has truly changed my
+    career. How? Through the people I chatted to.
   robots: []
   extra: []
 layout: PostLayout
