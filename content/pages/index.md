@@ -10,14 +10,15 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: >-
-      From dev to PM, SharePoint farm owner to analyst, Kevin has done it all
-      and has the hair (or lack of) to prove it. Having started in the world of
-      Financial Services with delivering solutions on Microsoft technologies to
-      help staff collaborate and be more productive, Kevin jumped the fence a
-      few years ago to the consultancy side. He has always loved to share and is
-      a Microsoft MVP in Microsoft 365 Apps and Services, Viva Explorer and
-      co-hosts the weekly modern workplace podcast GreyHatBeardPrincess in
-      between his day job as a Head of Practice for Modern Workplace at CPS.
+      Inspired by those in the community that have gone before me, I try to
+      share what I learn by looking at what the services from Microsoft can
+      offer, understanding challenges people have and bringing those two things
+      together. Having learned from 13 years in Financial Services, I moved into
+      the world of consulting, currently acting as Group Manager - Modern
+      Workplace at Avanade.I am lucky enough to have been awarded as a Microsoft
+      MVP in Microsoft 365 Apps and Services, participate as a Viva Explorer and
+      co-host the modern workplace podcast GreyHatBeardPrincess as well as
+      blogging and sharing videos.
     actions: []
     elementId: homepage-hero
     colors: bg-light-fg-dark
@@ -47,6 +48,38 @@ sections:
       styles:
         self:
           borderRadius: x-large
+  - type: RecentPostsSection
+    title:
+      text: Recent posts
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+      type: TitleBlock
+    subtitle: null
+    recentCount: 3
+    showThumbnail: true
+    showExcerpt: true
+    showDate: true
+    showAuthor: true
+    actions:
+      - type: Button
+        label: View all posts
+        altText: View all posts
+        url: /blog
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+    badge: null
+    elementId: ''
+    variant: three-col-grid
+    colors: bg-light-fg-dark
+    backgroundImage: null
+    styles:
+      self:
+        justifyContent: center
   - type: FeaturedPostsSection
     title:
       text: Featured posts
@@ -57,9 +90,15 @@ sections:
       type: TitleBlock
     subtitle: null
     posts:
-      - content/pages/blog/blog-post-title-1.md
-      - content/pages/blog/blog-post-title-2.md
-      - content/pages/blog/blog-post-title-3.md
+      - content/pages/2022/04/Transforming-organisations-with-Viva.md
+      - content/pages/2022/09/The-why-of-Viva-Goals.md
+      - >-
+        content/pages/2021/07/09/toxic-male-behaviour-we-can-and-must-do-better.md
+      - content/pages/2021/07/17/Samples-for-Microsoft-Search.md
+      - content/pages/2020/08/12/Knowledge-Management-Series.md
+      - >-
+        content/pages/2020/01/03/You-know-what-its-damn-hard-chatting-to-random-people
+        copy.md
     showThumbnail: true
     showExcerpt: true
     showDate: true
@@ -77,29 +116,6 @@ sections:
           - pl-16
           - pb-16
           - pr-16
-        justifyContent: center
-  - type: RecentPostsSection
-    title:
-      text: Recent posts
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
-    subtitle: null
-    recentCount: 3
-    showThumbnail: true
-    showExcerpt: true
-    showDate: true
-    showAuthor: true
-    actions: []
-    badge: null
-    elementId: ''
-    variant: three-col-grid
-    colors: bg-light-fg-dark
-    backgroundImage: null
-    styles:
-      self:
         justifyContent: center
 seo:
   metaTitle: Home - Demo site
