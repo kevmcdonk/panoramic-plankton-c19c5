@@ -34,7 +34,8 @@
         "sourcebit-source-contentful": "^0.6.8",
         "sourcebit-target-next": "^0.8.3",
         "swiper": "^8.4.4",
-        "tailwindcss": "^3.1.8"
+        "tailwindcss": "^3.1.8",
+        "warn-once": "^0.1.1"
     },
     "devDependencies": {
         "@base2/pretty-print-object": "^1.0.2",
