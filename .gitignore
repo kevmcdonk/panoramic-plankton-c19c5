@@ -20,6 +20,8 @@
 # production
 /build
 
+/public/rss/*
+
 # misc
 .DS_Store
 *.pem
@@ -43,7 +45,4 @@ yarn-error.log*
 .idea
 
 tmp*
-public/rss/atom.xml
-public/rss/index.xml
-public/rss/feed.json
-public/rss/index.xml
+
