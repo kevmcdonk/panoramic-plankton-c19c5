@@ -6,8 +6,8 @@
             "thumbnail": "images/careers-page.png",
             "data": {
                 "seo": {
-                    "metaTitle": "Careers",
-                    "metaDescription": "This is the careers page built with Stackbit",
+                    "metaTitle": "Community",
+                    "metaDescription": "This is the community page for how I love to share with the community",
                     "addTitleSuffix": true,
                     "socialImage": "/images/person-five.jpg",
                     "metaTags": [],
