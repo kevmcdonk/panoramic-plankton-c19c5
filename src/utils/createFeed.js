@@ -47,7 +47,7 @@ function generateRssFeed() {
         arrayOfFiles = arrayOfFiles || [];
 
         files.forEach(function (file) {
-            console.log(file);
+            // console.log(file);
             if (fs.statSync(dirPath + '/' + file).isDirectory()) {
                 arrayOfFiles = getAllFiles(dirPath + '/' + file, arrayOfFiles);
             } else {
@@ -78,7 +78,7 @@ function generateRssFeed() {
             const matterResponse = {
                 file,
                 title: matterResult.data.title,
-                description: matterResult.data.subtitle,
+                description: matterResult.data.excerpt,
                 date: matterResult.data.date,
                 content: matterResult.content
             };
@@ -86,7 +86,7 @@ function generateRssFeed() {
         }
     });
 
-    console.log(postsData);
+    // console.log(postsData);
 
     postsData.forEach((post) => {
         if (post != undefined) {
@@ -96,7 +96,8 @@ function generateRssFeed() {
                 id: url,
                 link: url,
                 description: post.description,
-                content: markdown.toHTML(post.content),
+                //content: markdown.toHTML(post.description),
+                content: post.description,
                 author: 'Kevin McDonnell',
                 contributor: 'Kevin McDonnell',
                 date: new Date(post.date)

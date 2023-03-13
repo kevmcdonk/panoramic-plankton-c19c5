@@ -6,7 +6,7 @@
             "thumbnail": "images/careers-page.png",
             "data": {
                 "seo": {
-                    "metaTitle": "Careers - Demo site",
+                    "metaTitle": "Careers",
                     "metaDescription": "This is the careers page built with Stackbit",
                     "addTitleSuffix": true,
                     "socialImage": "/images/person-five.jpg",

@@ -6,7 +6,7 @@
             "thumbnail": "images/pricing-page.png",
             "data": {
                 "seo": {
-                    "metaTitle": "Pricing - Demo site",
+                    "metaTitle": "Pricing",
                     "metaDescription": "This is the pricing page built with Stackbit",
                     "addTitleSuffix": true,
                     "socialImage": "/images/soc.png",
