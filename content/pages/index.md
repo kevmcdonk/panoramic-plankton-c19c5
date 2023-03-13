@@ -118,9 +118,9 @@ sections:
           - pr-16
         justifyContent: center
 seo:
-  metaTitle: Home - Demo site
-  metaDescription: This demo site is built with Stackbit
-  socialImage: /images/soc-feature-image.png
+  metaTitle: Home
+  metaDescription: The modern workplace blog by Kevin McDonnell
+  socialImage: /images/BlogHeader.jps
   type: Seo
 type: PageLayout
 ---

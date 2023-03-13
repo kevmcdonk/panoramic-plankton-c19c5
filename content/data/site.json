@@ -2,7 +2,7 @@
     "favicon": "/images/Mcd79-Logo.jpg",
     "header": "content/data/header.json",
     "footer": "content/data/footer.json",
-    "titleSuffix": "Theme Demo",
+    "titleSuffix": "",
     "defaultSocialImage": "/images/MCD79 - the Modern Workplace Blog.png",
     "type": "Config",
     "domain": "https://www.mcd79.com",

@@ -113,9 +113,9 @@ sections:
           - pb-16
           - pr-16
 seo:
-  metaTitle: Pricing - Demo site
-  metaDescription: This is the pricing page built with Stackbit.
-  socialImage: /images/soc-pricing.jpg
+  metaTitle: About me
+  metaDescription: All about me.
+  socialImage: /images/BlogHeader.jpg
   type: Seo
 type: PageLayout
 ---
