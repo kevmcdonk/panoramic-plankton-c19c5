@@ -289,8 +289,8 @@ sections:
         textAlign: center
     subtitle: Areas where I give back on a regular basis
 seo:
-  metaTitle: Careers - Demo site
-  metaDescription: This is the careers page built with Stackbit.
+  metaTitle: Community
+  metaDescription: This is all about the community work I love to do
   socialImage: /images/person-five.jpg
   type: Seo
 type: PageLayout
