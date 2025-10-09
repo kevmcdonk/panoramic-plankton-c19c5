@@ -1,5 +1,8 @@
 User-agent: *  
-Allow: /
+Disallow: /
 
 User-agent: People Place Assistant
+Allow: /
+
+User-agent: MicrosoftSearch
 Allow: /
