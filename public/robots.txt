@@ -6,3 +6,6 @@ Allow: /
 
 User-agent: MicrosoftSearch
 Allow: /
+
+User-agent: Microsoft Search
+Allow: /
