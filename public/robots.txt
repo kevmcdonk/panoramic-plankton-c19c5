@@ -9,3 +9,6 @@ Allow: /
 
 User-agent: Microsoft Search
 Allow: /
+
+User-agent: Microsoft
+Allow: /
