@@ -4,7 +4,7 @@ Disallow: /
 User-agent: People Place Assistant
 Allow: /
 
-User-agent: MicrosoftSearch
+User-agent: GraphConnectors
 Allow: /
 
 User-agent: Microsoft Search
